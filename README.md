@@ -15,14 +15,15 @@ An intermediate portfolio project using **Python, SQL, Power BI and Streamlit** 
 - `data/ecommerce_orders.csv` — sample order-level dataset
 - `analysis.py` — Python cleaning and KPI analysis
 - `sql/schema.sql`, `sql/analysis_queries.sql` — MySQL schema and queries
-- `streamlit_app.py` — interactive Streamlit dashboard
+- `streamlit_app.py` — interactive dashboard with five tabs
+- `.streamlit/config.toml` — dashboard theme
+- `tests/test_dataset.py` — data-quality tests
+- `.github/workflows/validate.yml` — automated checks on pushes and pull requests
 - `powerbi/Measures.dax` — Power BI KPI measures
 - `powerbi/CalendarTable.dax` — date dimension expression
-- `powerbi/ecommerce_theme.json` — report theme
-- `powerbi/BUILD_DASHBOARD.md` — step-by-step dashboard build guide
-- `POWER_BI_GUIDE.md` — overview of Power BI measures and report design
-- `PROJECT_PRESENTATION.md` — interview talking points
-- `reports/` — generated analysis outputs (created when Python analysis runs)
+- `powerbi/ecommerce_theme.json` — Power BI report theme
+- `powerbi/BUILD_DASHBOARD.md` — step-by-step Power BI build guide
+- `DEPLOYMENT_CHECKLIST.md` — deployment and final publishing steps
 
 ## Run locally
 ```bash
@@ -31,22 +32,42 @@ python analysis.py
 streamlit run streamlit_app.py
 ```
 
+## Dashboard features
+The Streamlit dashboard includes:
+1. **Executive overview** — delivered revenue, orders, customers, average order value, monthly revenue and category performance.
+2. **Customer insights** — top customers by delivered spend and order count.
+3. **Product & geography** — product, category and city performance.
+4. **Order quality** — delivery, cancellation and return rates plus payment-method mix.
+5. **Data explorer** — filtered order records and CSV export.
+
+Use the sidebar to filter by date, category, city and payment method.
+
 ## MySQL
 Create the database/table using `sql/schema.sql`, import the CSV into `orders`, then run `sql/analysis_queries.sql`.
 
 ## Power BI dashboard
-Open Power BI Desktop and follow [powerbi/BUILD_DASHBOARD.md](powerbi/BUILD_DASHBOARD.md). The guide includes data preparation, model relationships, DAX measures, a report theme and four suggested report pages.
+Open Power BI Desktop and follow [powerbi/BUILD_DASHBOARD.md](powerbi/BUILD_DASHBOARD.md). The folder contains DAX measures, a date-table expression, a theme and a four-page report plan.
 
-**Important:** The repository contains the Power BI build assets and instructions, but does not yet contain a finished `.pbix` report. Build and save `Ecommerce_Sales_Customer_Analytics.pbix` in Power BI Desktop, then upload it to the `powerbi/` folder. Add dashboard screenshots to `powerbi/screenshots/`.
+**Important:** A finished Power BI Desktop `.pbix` report has not yet been created or uploaded. Build and save `Ecommerce_Sales_Customer_Analytics.pbix` in Power BI Desktop, then add it to `powerbi/` along with dashboard screenshots.
 
 ## Deploy Streamlit
-1. Sign in to Streamlit Community Cloud with GitHub.
+1. Sign in to Streamlit Community Cloud using GitHub.
 2. Create a new app and select this repository and branch `main`.
 3. Set the main file path to `streamlit_app.py`.
-4. Deploy, test the app, and add the actual public app URL here.
+4. Deploy, test all tabs and filters, and record the actual public app URL.
+5. Add the verified app URL here; no live URL is claimed until deployment is completed.
+
+## Automated validation
+GitHub Actions runs dataset tests, the Python analysis pipeline and a Python syntax check when changes are pushed to `main` or a pull request targets `main`.
+
+To run the tests locally:
+```bash
+pip install -r requirements.txt pytest
+pytest -q
+```
 
 ## Resume bullet
-Built an end-to-end e-commerce analytics project using Python, SQL and Power BI to analyze order trends, customer value, category performance and fulfilment outcomes; developed an interactive Streamlit dashboard and documented business KPIs.
+Built an end-to-end e-commerce analytics portfolio project using Python, SQL, Power BI and Streamlit to analyze order trends, customer value, product/category performance and fulfilment outcomes; developed interactive dashboards and automated dataset validation.
 
 ## Limitations
 The dataset is synthetic and does not include costs, profit, marketing spend, acquisition channel, web traffic or inventory. Therefore this project does not calculate profit margin, CAC, ROAS or inventory optimization.
