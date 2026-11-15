@@ -1,0 +1,15 @@
+-- Modeling > New table. Create this date dimension after importing Orders.
+Calendar =
+ADDCOLUMNS(
+    CALENDAR(MIN(Orders[order_date]), MAX(Orders[order_date])),
+    "Year", YEAR([Date]),
+    "Month Number", MONTH([Date]),
+    "Month", FORMAT([Date], "MMM"),
+    "Year Month", FORMAT([Date], "YYYY-MM"),
+    "Quarter", "Q" & FORMAT([Date], "Q")
+)
+
+-- After creating the table:
+-- 1. Select Calendar[Date] and choose Table tools > Mark as date table.
+-- 2. Create relationship Calendar[Date] (one) -> Orders[order_date] (many).
+-- 3. Sort Calendar[Month] by Calendar[Month Number].
