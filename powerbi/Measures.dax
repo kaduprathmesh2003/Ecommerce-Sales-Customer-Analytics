@@ -1,0 +1,29 @@
+-- Create these measures in Power BI Desktop (Modeling > New measure).
+-- The source CSV already contains a revenue column calculated after discount.
+Delivered Revenue = CALCULATE(SUM(Orders[revenue]), Orders[order_status] = "Delivered")
+
+Delivered Orders = CALCULATE(DISTINCTCOUNT(Orders[order_id]), Orders[order_status] = "Delivered")
+
+Total Orders = DISTINCTCOUNT(Orders[order_id])
+
+Unique Customers = CALCULATE(DISTINCTCOUNT(Orders[customer_id]), Orders[order_status] = "Delivered")
+
+Average Order Value = DIVIDE([Delivered Revenue], [Delivered Orders], 0)
+
+Units Sold = CALCULATE(SUM(Orders[quantity]), Orders[order_status] = "Delivered")
+
+Delivered Order Rate = DIVIDE([Delivered Orders], [Total Orders], 0)
+
+Cancelled Orders = CALCULATE(DISTINCTCOUNT(Orders[order_id]), Orders[order_status] = "Cancelled")
+
+Returned Orders = CALCULATE(DISTINCTCOUNT(Orders[order_id]), Orders[order_status] = "Returned")
+
+Cancellation Rate = DIVIDE([Cancelled Orders], [Total Orders], 0)
+
+Return Rate = DIVIDE([Returned Orders], [Total Orders], 0)
+
+Revenue Previous Month = CALCULATE([Delivered Revenue], DATEADD('Calendar'[Date], -1, MONTH))
+
+Revenue MoM Change % = DIVIDE([Delivered Revenue] - [Revenue Previous Month], [Revenue Previous Month], 0)
+
+Customers Previous Month = CALCULATE([Unique Customers], DATEADD('Calendar'[Date], -1, MONTH))
