@@ -1,0 +1,15 @@
+{
+  "name": "E-commerce Analytics - Clean Blue",
+  "dataColors": ["#2563EB", "#0F766E", "#F59E0B", "#7C3AED", "#DC2626", "#0891B2", "#65A30D"],
+  "background": "#F8FAFC",
+  "foreground": "#0F172A",
+  "tableAccent": "#2563EB",
+  "visualStyles": {
+    "*": {
+      "*": {
+        "title": [{"show": true, "fontFamily": "Segoe UI", "fontSize": 12, "color": {"solid": {"color": "#0F172A"}}}],
+        "labels": [{"fontFamily": "Segoe UI", "color": {"solid": {"color": "#334155"}}}]
+      }
+    }
+  }
+}
