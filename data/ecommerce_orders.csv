@@ -1,0 +1,1201 @@
+order_id,order_date,customer_id,product,category,quantity,unit_price,discount,payment_method,city,order_status,revenue
+ORD00001,2025-01-08,CUST0055,Table Lamp,Home,1,1154.81,0.2,Cash on Delivery,Nashik,Delivered,923.85
+ORD00002,2025-06-06,CUST0036,Casual T-Shirt,Fashion,2,673.26,0.1,Credit Card,Nagpur,Delivered,1211.87
+ORD00003,2025-09-30,CUST0020,Yoga Mat,Sports,2,881.12,0,Credit Card,Nanded,Returned,1762.24
+ORD00004,2025-02-20,CUST0247,Yoga Mat,Sports,1,1116.21,0.15,UPI,Mumbai,Delivered,948.78
+ORD00005,2025-09-25,CUST0221,Wireless Headphones,Electronics,2,2871.15,0.15,Cash on Delivery,Nagpur,Returned,4880.95
+ORD00006,2025-01-05,CUST0065,Running Shoes,Fashion,2,2354,0.1,Cash on Delivery,Mumbai,Cancelled,4237.2
+ORD00007,2025-07-13,CUST0019,Casual T-Shirt,Fashion,2,797.46,0.1,Cash on Delivery,Aurangabad,Returned,1435.43
+ORD00008,2025-04-03,CUST0146,Casual T-Shirt,Fashion,3,634.71,0.2,Cash on Delivery,Nagpur,Delivered,1523.3
+ORD00009,2025-11-24,CUST0172,Running Shoes,Fashion,1,2246.96,0.05,Credit Card,Nanded,Delivered,2134.61
+ORD00010,2025-01-05,CUST0166,Yoga Mat,Sports,1,1092.76,0.15,UPI,Thane,Delivered,928.85
+ORD00011,2025-04-30,CUST0074,Wireless Headphones,Electronics,3,2181.12,0.15,Credit Card,Mumbai,Returned,5561.86
+ORD00012,2025-05-16,CUST0172,Skincare Set,Beauty,3,1708.68,0.1,UPI,Nanded,Delivered,4613.44
+ORD00013,2025-06-06,CUST0125,Casual T-Shirt,Fashion,2,689.52,0.15,Debit Card,Aurangabad,Delivered,1172.18
+ORD00014,2025-01-28,CUST0237,Wireless Headphones,Electronics,1,2864.04,0.1,Debit Card,Thane,Delivered,2577.64
+ORD00015,2025-10-12,CUST0250,Table Lamp,Home,1,1412.95,0.15,UPI,Aurangabad,Delivered,1201.01
+ORD00016,2025-08-07,CUST0245,Yoga Mat,Sports,2,1131.79,0.2,UPI,Pune,Delivered,1810.86
+ORD00017,2025-11-01,CUST0067,Wireless Headphones,Electronics,1,2412.77,0.1,UPI,Nagpur,Delivered,2171.49
+ORD00018,2025-08-31,CUST0242,Yoga Mat,Sports,3,1109.56,0.05,Credit Card,Thane,Cancelled,3162.25
+ORD00019,2025-02-10,CUST0087,Storage Organizer,Home,3,804.41,0.1,Credit Card,Nanded,Delivered,2171.91
+ORD00020,2025-05-08,CUST0065,Casual T-Shirt,Fashion,3,787.82,0,UPI,Nagpur,Returned,2363.46
+ORD00021,2025-12-25,CUST0161,Skincare Set,Beauty,3,1446.17,0,Debit Card,Nanded,Cancelled,4338.51
+ORD00022,2025-02-24,CUST0123,Casual T-Shirt,Fashion,1,716.83,0.05,Credit Card,Nashik,Cancelled,680.99
+ORD00023,2025-03-22,CUST0096,Table Lamp,Home,2,1228.92,0.2,Debit Card,Thane,Delivered,1966.27
+ORD00024,2025-06-28,CUST0138,Skincare Set,Beauty,3,1344.69,0.1,Debit Card,Nagpur,Delivered,3630.66
+ORD00025,2025-11-06,CUST0032,Yoga Mat,Sports,2,1026.04,0.1,UPI,Pune,Delivered,1846.87
+ORD00026,2025-01-16,CUST0187,Running Shoes,Fashion,1,2292.68,0.15,Debit Card,Pune,Cancelled,1948.78
+ORD00027,2025-03-01,CUST0060,Running Shoes,Fashion,1,2124.16,0.1,Cash on Delivery,Nashik,Returned,1911.74
+ORD00028,2025-11-27,CUST0093,Casual T-Shirt,Fashion,2,798.63,0.2,Credit Card,Mumbai,Cancelled,1277.81
+ORD00029,2025-10-21,CUST0123,Smart Watch,Electronics,1,4683.87,0.05,Debit Card,Aurangabad,Delivered,4449.68
+ORD00030,2025-06-19,CUST0104,Smart Watch,Electronics,2,5404.02,0.2,Credit Card,Thane,Delivered,8646.43
+ORD00031,2025-08-29,CUST0110,Smart Watch,Electronics,3,5699.62,0.15,Credit Card,Thane,Delivered,14534.03
+ORD00032,2025-02-10,CUST0107,Smart Watch,Electronics,1,5290.09,0.15,Debit Card,Nagpur,Delivered,4496.58
+ORD00033,2025-04-24,CUST0099,Table Lamp,Home,3,1411.9,0.1,UPI,Pune,Delivered,3812.13
+ORD00034,2025-01-28,CUST0009,Table Lamp,Home,1,1254.06,0.15,Debit Card,Pune,Returned,1065.95
+ORD00035,2025-08-21,CUST0078,Smart Watch,Electronics,1,5058.25,0.1,Cash on Delivery,Nagpur,Delivered,4552.43
+ORD00036,2025-10-22,CUST0045,Storage Organizer,Home,3,776.52,0.2,Debit Card,Thane,Delivered,1863.65
+ORD00037,2025-01-15,CUST0097,Smart Watch,Electronics,1,4454.9,0,UPI,Nashik,Delivered,4454.9
+ORD00038,2025-12-27,CUST0236,Table Lamp,Home,3,1321.1,0.2,Credit Card,Nagpur,Delivered,3170.64
+ORD00039,2025-12-29,CUST0224,Running Shoes,Fashion,3,2220.07,0.1,UPI,Nanded,Cancelled,5994.19
+ORD00040,2025-07-14,CUST0039,Storage Organizer,Home,1,941.96,0.2,Debit Card,Pune,Delivered,753.57
+ORD00041,2025-10-19,CUST0196,Storage Organizer,Home,1,996.08,0,Cash on Delivery,Nanded,Cancelled,996.08
+ORD00042,2025-06-05,CUST0023,Casual T-Shirt,Fashion,3,726.71,0,Credit Card,Aurangabad,Returned,2180.13
+ORD00043,2025-01-01,CUST0221,Yoga Mat,Sports,3,1003.33,0.1,UPI,Pune,Delivered,2708.99
+ORD00044,2025-10-14,CUST0233,Table Lamp,Home,3,1242.09,0.2,Cash on Delivery,Pune,Cancelled,2981.02
+ORD00045,2025-10-26,CUST0027,Yoga Mat,Sports,1,905.6,0.1,Cash on Delivery,Nashik,Delivered,815.04
+ORD00046,2025-03-02,CUST0115,Wireless Headphones,Electronics,1,2792.76,0,Cash on Delivery,Thane,Returned,2792.76
+ORD00047,2025-02-11,CUST0118,Yoga Mat,Sports,3,868.98,0.15,UPI,Nashik,Returned,2215.9
+ORD00048,2025-04-06,CUST0021,Running Shoes,Fashion,2,2042.95,0.05,UPI,Mumbai,Cancelled,3881.61
+ORD00049,2025-03-25,CUST0001,Yoga Mat,Sports,3,987.74,0,UPI,Aurangabad,Delivered,2963.22
+ORD00050,2025-12-29,CUST0222,Storage Organizer,Home,1,1004.69,0.15,Debit Card,Pune,Delivered,853.99
+ORD00051,2025-01-30,CUST0038,Smart Watch,Electronics,2,4470.61,0.05,Debit Card,Mumbai,Delivered,8494.16
+ORD00052,2025-02-12,CUST0163,Wireless Headphones,Electronics,3,2163.92,0,UPI,Thane,Delivered,6491.76
+ORD00053,2025-10-23,CUST0234,Table Lamp,Home,3,1367.88,0.2,Debit Card,Aurangabad,Cancelled,3282.91
+ORD00054,2025-09-21,CUST0126,Casual T-Shirt,Fashion,3,672.85,0.1,UPI,Mumbai,Delivered,1816.7
+ORD00055,2025-08-04,CUST0191,Smart Watch,Electronics,2,4333.8,0.15,Debit Card,Pune,Delivered,7367.46
+ORD00056,2025-05-12,CUST0204,Yoga Mat,Sports,3,1073.31,0.2,Cash on Delivery,Mumbai,Returned,2575.94
+ORD00057,2025-05-03,CUST0244,Running Shoes,Fashion,1,2110.51,0.1,Credit Card,Nashik,Delivered,1899.46
+ORD00058,2025-07-05,CUST0034,Skincare Set,Beauty,2,1676.89,0.1,UPI,Nashik,Delivered,3018.4
+ORD00059,2025-11-28,CUST0116,Running Shoes,Fashion,1,2062.67,0,Debit Card,Pune,Returned,2062.67
+ORD00060,2025-10-19,CUST0219,Wireless Headphones,Electronics,3,2826.97,0.2,Debit Card,Thane,Delivered,6784.73
+ORD00061,2025-02-05,CUST0136,Table Lamp,Home,2,1214.77,0,UPI,Nanded,Delivered,2429.54
+ORD00062,2025-07-08,CUST0082,Table Lamp,Home,2,1315.73,0.2,Debit Card,Pune,Delivered,2105.17
+ORD00063,2025-03-08,CUST0089,Running Shoes,Fashion,2,2475.02,0.2,Cash on Delivery,Nanded,Delivered,3960.03
+ORD00064,2025-02-26,CUST0183,Yoga Mat,Sports,1,960.27,0.2,Credit Card,Thane,Delivered,768.22
+ORD00065,2025-06-09,CUST0223,Yoga Mat,Sports,2,1023.27,0,Debit Card,Mumbai,Delivered,2046.54
+ORD00066,2025-02-28,CUST0220,Yoga Mat,Sports,2,973.07,0.05,Cash on Delivery,Nashik,Delivered,1848.83
+ORD00067,2025-05-26,CUST0217,Running Shoes,Fashion,2,2016.89,0,Cash on Delivery,Pune,Delivered,4033.78
+ORD00068,2025-04-05,CUST0110,Skincare Set,Beauty,2,1368.53,0,UPI,Nagpur,Delivered,2737.06
+ORD00069,2025-05-08,CUST0173,Skincare Set,Beauty,1,1467.63,0.1,Cash on Delivery,Nanded,Returned,1320.87
+ORD00070,2025-06-21,CUST0007,Skincare Set,Beauty,3,1594.54,0.1,UPI,Nanded,Delivered,4305.26
+ORD00071,2025-03-01,CUST0076,Yoga Mat,Sports,1,1089.9,0.15,UPI,Nanded,Delivered,926.42
+ORD00072,2025-06-19,CUST0141,Yoga Mat,Sports,2,985.65,0.1,Credit Card,Pune,Returned,1774.17
+ORD00073,2025-07-10,CUST0014,Storage Organizer,Home,3,847.14,0.1,Cash on Delivery,Nagpur,Delivered,2287.28
+ORD00074,2025-04-27,CUST0167,Running Shoes,Fashion,3,2285.77,0.15,Cash on Delivery,Nashik,Delivered,5828.71
+ORD00075,2025-10-23,CUST0243,Casual T-Shirt,Fashion,3,666.1,0.2,Cash on Delivery,Aurangabad,Cancelled,1598.64
+ORD00076,2025-08-23,CUST0090,Storage Organizer,Home,2,848.08,0,UPI,Aurangabad,Delivered,1696.16
+ORD00077,2025-04-29,CUST0186,Wireless Headphones,Electronics,1,2408.28,0.2,Cash on Delivery,Nashik,Delivered,1926.62
+ORD00078,2025-07-22,CUST0061,Running Shoes,Fashion,3,2127.45,0.1,Credit Card,Aurangabad,Delivered,5744.11
+ORD00079,2025-06-16,CUST0227,Storage Organizer,Home,2,957.59,0.05,UPI,Pune,Delivered,1819.42
+ORD00080,2025-06-11,CUST0013,Storage Organizer,Home,3,899.61,0.2,Credit Card,Mumbai,Cancelled,2159.06
+ORD00081,2025-08-29,CUST0138,Smart Watch,Electronics,2,5291.71,0.15,Credit Card,Thane,Delivered,8995.91
+ORD00082,2025-04-15,CUST0063,Storage Organizer,Home,3,788.59,0.05,Credit Card,Nanded,Delivered,2247.48
+ORD00083,2025-01-20,CUST0031,Table Lamp,Home,3,1186.36,0.1,Debit Card,Mumbai,Cancelled,3203.17
+ORD00084,2025-08-30,CUST0183,Casual T-Shirt,Fashion,1,764.71,0.05,UPI,Mumbai,Cancelled,726.47
+ORD00085,2025-09-02,CUST0244,Storage Organizer,Home,3,805.11,0.05,Credit Card,Pune,Returned,2294.56
+ORD00086,2025-11-02,CUST0099,Table Lamp,Home,2,1201.04,0.05,Cash on Delivery,Nashik,Returned,2281.98
+ORD00087,2025-07-29,CUST0200,Casual T-Shirt,Fashion,2,793.93,0,UPI,Nashik,Returned,1587.86
+ORD00088,2025-12-05,CUST0157,Storage Organizer,Home,1,861.84,0,Debit Card,Mumbai,Returned,861.84
+ORD00089,2025-09-14,CUST0183,Table Lamp,Home,1,1265.35,0.05,Cash on Delivery,Aurangabad,Delivered,1202.08
+ORD00090,2025-02-20,CUST0223,Running Shoes,Fashion,1,1993.61,0,Debit Card,Thane,Cancelled,1993.61
+ORD00091,2025-10-16,CUST0233,Running Shoes,Fashion,1,2451.1,0.1,UPI,Nanded,Delivered,2205.99
+ORD00092,2025-12-30,CUST0186,Wireless Headphones,Electronics,2,2404.7,0.1,Cash on Delivery,Aurangabad,Delivered,4328.46
+ORD00093,2025-01-17,CUST0181,Casual T-Shirt,Fashion,1,648.19,0.15,Cash on Delivery,Nanded,Delivered,550.96
+ORD00094,2025-08-04,CUST0126,Storage Organizer,Home,1,938.37,0.05,UPI,Thane,Delivered,891.45
+ORD00095,2025-05-24,CUST0084,Casual T-Shirt,Fashion,3,768.77,0.05,Debit Card,Pune,Returned,2190.99
+ORD00096,2025-05-27,CUST0050,Running Shoes,Fashion,2,2181.37,0.2,Debit Card,Nashik,Delivered,3490.19
+ORD00097,2025-04-26,CUST0123,Skincare Set,Beauty,3,1291.93,0.1,Cash on Delivery,Aurangabad,Delivered,3488.21
+ORD00098,2025-08-12,CUST0048,Wireless Headphones,Electronics,2,2307.86,0.15,Debit Card,Thane,Returned,3923.36
+ORD00099,2025-05-06,CUST0008,Yoga Mat,Sports,2,1015.82,0.1,Credit Card,Nashik,Delivered,1828.48
+ORD00100,2025-04-08,CUST0176,Smart Watch,Electronics,1,5381.81,0.15,Debit Card,Thane,Delivered,4574.54
+ORD00101,2025-07-21,CUST0079,Running Shoes,Fashion,3,2023.23,0,Debit Card,Mumbai,Delivered,6069.69
+ORD00102,2025-06-21,CUST0142,Table Lamp,Home,2,1390.78,0,UPI,Mumbai,Delivered,2781.56
+ORD00103,2025-09-18,CUST0081,Yoga Mat,Sports,1,1079.22,0.1,UPI,Mumbai,Delivered,971.3
+ORD00104,2025-06-24,CUST0245,Skincare Set,Beauty,2,1345.71,0.2,UPI,Nanded,Delivered,2153.14
+ORD00105,2025-04-28,CUST0097,Skincare Set,Beauty,3,1387.72,0.2,UPI,Nanded,Delivered,3330.53
+ORD00106,2025-01-23,CUST0125,Wireless Headphones,Electronics,3,2219.76,0.1,UPI,Nanded,Delivered,5993.35
+ORD00107,2025-06-07,CUST0060,Running Shoes,Fashion,1,2225.44,0.2,Cash on Delivery,Mumbai,Delivered,1780.35
+ORD00108,2025-07-28,CUST0040,Skincare Set,Beauty,1,1679.59,0.05,Credit Card,Aurangabad,Delivered,1595.61
+ORD00109,2025-06-24,CUST0213,Yoga Mat,Sports,3,1148.26,0.2,Cash on Delivery,Nagpur,Cancelled,2755.82
+ORD00110,2025-10-03,CUST0128,Running Shoes,Fashion,1,1946.34,0,Credit Card,Nagpur,Delivered,1946.34
+ORD00111,2025-08-25,CUST0009,Table Lamp,Home,2,1347.39,0,UPI,Mumbai,Delivered,2694.78
+ORD00112,2025-12-25,CUST0092,Wireless Headphones,Electronics,1,2866.87,0.05,UPI,Thane,Delivered,2723.53
+ORD00113,2025-05-02,CUST0136,Skincare Set,Beauty,3,1654.39,0.05,Credit Card,Aurangabad,Delivered,4715.01
+ORD00114,2025-06-24,CUST0224,Storage Organizer,Home,1,883.29,0.15,Credit Card,Thane,Delivered,750.8
+ORD00115,2025-09-13,CUST0242,Storage Organizer,Home,2,905.56,0.2,Debit Card,Nagpur,Cancelled,1448.9
+ORD00116,2025-07-31,CUST0018,Storage Organizer,Home,1,786.95,0.05,UPI,Pune,Cancelled,747.6
+ORD00117,2025-05-11,CUST0190,Storage Organizer,Home,2,768.86,0.2,Debit Card,Aurangabad,Delivered,1230.18
+ORD00118,2025-08-20,CUST0166,Smart Watch,Electronics,3,4337.15,0.1,Credit Card,Nagpur,Delivered,11710.3
+ORD00119,2025-10-26,CUST0138,Casual T-Shirt,Fashion,2,679.48,0.1,Debit Card,Aurangabad,Returned,1223.06
+ORD00120,2025-07-25,CUST0229,Storage Organizer,Home,3,820.73,0.2,Debit Card,Nagpur,Delivered,1969.75
+ORD00121,2025-09-26,CUST0096,Wireless Headphones,Electronics,1,2533.99,0.15,UPI,Nagpur,Delivered,2153.89
+ORD00122,2025-07-24,CUST0177,Casual T-Shirt,Fashion,3,653.52,0.1,Credit Card,Mumbai,Delivered,1764.5
+ORD00123,2025-02-03,CUST0243,Skincare Set,Beauty,3,1350.66,0.15,Credit Card,Nashik,Cancelled,3444.18
+ORD00124,2025-03-10,CUST0014,Yoga Mat,Sports,1,881.15,0.05,Debit Card,Mumbai,Delivered,837.09
+ORD00125,2025-05-03,CUST0048,Wireless Headphones,Electronics,1,2337.3,0.05,Cash on Delivery,Mumbai,Delivered,2220.43
+ORD00126,2025-07-30,CUST0213,Wireless Headphones,Electronics,3,2334.45,0.15,Debit Card,Mumbai,Cancelled,5952.85
+ORD00127,2025-05-13,CUST0102,Casual T-Shirt,Fashion,3,647.14,0.05,UPI,Thane,Delivered,1844.35
+ORD00128,2025-11-21,CUST0084,Skincare Set,Beauty,2,1371.09,0.1,Debit Card,Pune,Returned,2467.96
+ORD00129,2025-12-13,CUST0045,Skincare Set,Beauty,3,1568.39,0,Debit Card,Thane,Delivered,4705.17
+ORD00130,2025-11-15,CUST0157,Wireless Headphones,Electronics,2,2537.49,0.1,UPI,Nashik,Delivered,4567.48
+ORD00131,2025-01-01,CUST0101,Wireless Headphones,Electronics,1,2131.84,0.2,Debit Card,Mumbai,Delivered,1705.47
+ORD00132,2025-09-30,CUST0168,Storage Organizer,Home,1,917.84,0,Cash on Delivery,Thane,Delivered,917.84
+ORD00133,2025-11-07,CUST0053,Table Lamp,Home,1,1146.37,0.1,Debit Card,Thane,Cancelled,1031.73
+ORD00134,2025-10-04,CUST0001,Table Lamp,Home,1,1221.02,0.2,Cash on Delivery,Nashik,Delivered,976.82
+ORD00135,2025-10-09,CUST0141,Smart Watch,Electronics,3,5354.6,0.1,Credit Card,Nashik,Delivered,14457.42
+ORD00136,2025-05-27,CUST0148,Casual T-Shirt,Fashion,2,617.9,0.05,Debit Card,Mumbai,Returned,1174.01
+ORD00137,2025-01-09,CUST0095,Smart Watch,Electronics,3,4975.15,0,Credit Card,Pune,Delivered,14925.45
+ORD00138,2025-01-15,CUST0087,Table Lamp,Home,2,1426.55,0.2,UPI,Aurangabad,Delivered,2282.48
+ORD00139,2025-04-02,CUST0047,Running Shoes,Fashion,2,2305.66,0.05,Credit Card,Nanded,Delivered,4380.75
+ORD00140,2025-10-31,CUST0197,Skincare Set,Beauty,3,1366.02,0.1,Credit Card,Mumbai,Cancelled,3688.25
+ORD00141,2025-08-19,CUST0202,Casual T-Shirt,Fashion,1,745.12,0.15,Credit Card,Mumbai,Delivered,633.35
+ORD00142,2025-07-16,CUST0090,Casual T-Shirt,Fashion,3,665.42,0.1,Debit Card,Aurangabad,Delivered,1796.63
+ORD00143,2025-07-01,CUST0168,Yoga Mat,Sports,3,997.1,0.15,UPI,Pune,Delivered,2542.61
+ORD00144,2025-08-15,CUST0010,Smart Watch,Electronics,2,4737.33,0.05,Debit Card,Nashik,Delivered,9000.93
+ORD00145,2025-07-16,CUST0204,Smart Watch,Electronics,3,5192.4,0.05,Debit Card,Aurangabad,Cancelled,14798.34
+ORD00146,2025-01-06,CUST0199,Table Lamp,Home,2,1420.82,0.05,UPI,Pune,Returned,2699.56
+ORD00147,2025-11-22,CUST0175,Yoga Mat,Sports,3,954.37,0.05,Debit Card,Nanded,Delivered,2719.95
+ORD00148,2025-08-09,CUST0002,Table Lamp,Home,1,1206.32,0.1,Credit Card,Pune,Delivered,1085.69
+ORD00149,2025-12-31,CUST0179,Running Shoes,Fashion,2,2321.85,0.05,Cash on Delivery,Nagpur,Cancelled,4411.51
+ORD00150,2025-01-06,CUST0049,Wireless Headphones,Electronics,2,2723.71,0.2,Cash on Delivery,Aurangabad,Cancelled,4357.94
+ORD00151,2025-06-05,CUST0166,Table Lamp,Home,2,1160.81,0.2,Cash on Delivery,Nagpur,Delivered,1857.3
+ORD00152,2025-01-16,CUST0156,Table Lamp,Home,2,1207.94,0.05,Cash on Delivery,Nashik,Cancelled,2295.09
+ORD00153,2025-10-21,CUST0159,Skincare Set,Beauty,3,1288.18,0.2,Cash on Delivery,Nanded,Returned,3091.63
+ORD00154,2025-05-31,CUST0228,Yoga Mat,Sports,2,948.48,0,UPI,Nagpur,Returned,1896.96
+ORD00155,2025-10-19,CUST0189,Storage Organizer,Home,1,967.15,0.15,UPI,Nanded,Returned,822.08
+ORD00156,2025-09-17,CUST0038,Storage Organizer,Home,1,1026.34,0.2,Credit Card,Nagpur,Delivered,821.07
+ORD00157,2025-06-28,CUST0016,Casual T-Shirt,Fashion,3,623.43,0.2,Cash on Delivery,Nagpur,Delivered,1496.23
+ORD00158,2025-08-21,CUST0042,Smart Watch,Electronics,1,4681.74,0.1,Debit Card,Thane,Delivered,4213.57
+ORD00159,2025-02-14,CUST0168,Running Shoes,Fashion,1,2231.4,0.1,Credit Card,Nashik,Returned,2008.26
+ORD00160,2025-07-21,CUST0036,Yoga Mat,Sports,1,872.31,0.05,UPI,Mumbai,Cancelled,828.69
+ORD00161,2025-05-30,CUST0034,Wireless Headphones,Electronics,2,2774.35,0.05,UPI,Nanded,Delivered,5271.26
+ORD00162,2025-11-25,CUST0248,Smart Watch,Electronics,3,5591.38,0.15,Debit Card,Mumbai,Delivered,14258.02
+ORD00163,2025-02-03,CUST0232,Running Shoes,Fashion,1,1960.67,0.05,Debit Card,Aurangabad,Delivered,1862.64
+ORD00164,2025-10-03,CUST0204,Wireless Headphones,Electronics,3,2166.96,0,Debit Card,Thane,Delivered,6500.88
+ORD00165,2025-10-15,CUST0199,Storage Organizer,Home,1,984.98,0.05,Credit Card,Mumbai,Delivered,935.73
+ORD00166,2025-11-15,CUST0042,Smart Watch,Electronics,2,4579.25,0.1,Cash on Delivery,Mumbai,Delivered,8242.65
+ORD00167,2025-11-29,CUST0050,Smart Watch,Electronics,3,4776.93,0,Credit Card,Nagpur,Delivered,14330.79
+ORD00168,2025-06-11,CUST0152,Running Shoes,Fashion,2,2150.39,0.2,Debit Card,Nagpur,Delivered,3440.62
+ORD00169,2025-01-15,CUST0083,Wireless Headphones,Electronics,1,2307.95,0.1,UPI,Nashik,Delivered,2077.15
+ORD00170,2025-08-26,CUST0153,Wireless Headphones,Electronics,3,2745.39,0.1,Debit Card,Nanded,Returned,7412.55
+ORD00171,2025-05-12,CUST0039,Skincare Set,Beauty,2,1652.93,0,Cash on Delivery,Mumbai,Delivered,3305.86
+ORD00172,2025-05-01,CUST0242,Running Shoes,Fashion,2,2076.45,0.1,Debit Card,Nanded,Delivered,3737.61
+ORD00173,2025-12-20,CUST0239,Table Lamp,Home,1,1463.53,0.1,Cash on Delivery,Thane,Delivered,1317.18
+ORD00174,2025-12-14,CUST0196,Casual T-Shirt,Fashion,3,798.04,0.15,Debit Card,Nagpur,Delivered,2035
+ORD00175,2025-10-03,CUST0174,Casual T-Shirt,Fashion,3,774.58,0.15,Credit Card,Nashik,Cancelled,1975.18
+ORD00176,2025-12-25,CUST0147,Running Shoes,Fashion,3,2112.7,0.05,Debit Card,Aurangabad,Delivered,6021.19
+ORD00177,2025-08-21,CUST0100,Skincare Set,Beauty,2,1595.25,0,Cash on Delivery,Nanded,Delivered,3190.5
+ORD00178,2025-11-13,CUST0019,Casual T-Shirt,Fashion,1,795.7,0.1,Credit Card,Mumbai,Delivered,716.13
+ORD00179,2025-09-16,CUST0169,Smart Watch,Electronics,1,4298.1,0.15,Credit Card,Nagpur,Delivered,3653.39
+ORD00180,2025-08-13,CUST0159,Running Shoes,Fashion,3,2039.05,0.15,Cash on Delivery,Thane,Delivered,5199.58
+ORD00181,2025-01-17,CUST0186,Table Lamp,Home,1,1405.79,0.05,Debit Card,Nanded,Delivered,1335.5
+ORD00182,2025-08-28,CUST0067,Storage Organizer,Home,2,927.77,0.1,Cash on Delivery,Nagpur,Cancelled,1669.99
+ORD00183,2025-12-13,CUST0090,Skincare Set,Beauty,2,1374.16,0.05,UPI,Pune,Returned,2610.9
+ORD00184,2025-07-10,CUST0179,Running Shoes,Fashion,2,2049.39,0,Cash on Delivery,Thane,Returned,4098.78
+ORD00185,2025-11-10,CUST0221,Storage Organizer,Home,1,922.34,0,Credit Card,Thane,Cancelled,922.34
+ORD00186,2025-05-10,CUST0115,Running Shoes,Fashion,3,2447.47,0.15,UPI,Nashik,Cancelled,6241.05
+ORD00187,2025-08-08,CUST0071,Casual T-Shirt,Fashion,3,762.59,0,Credit Card,Nanded,Cancelled,2287.77
+ORD00188,2025-07-16,CUST0158,Table Lamp,Home,2,1424.87,0.2,UPI,Nashik,Returned,2279.79
+ORD00189,2025-11-09,CUST0102,Storage Organizer,Home,3,845.82,0.1,Credit Card,Pune,Delivered,2283.71
+ORD00190,2025-03-13,CUST0035,Storage Organizer,Home,3,805.24,0,Credit Card,Nanded,Delivered,2415.72
+ORD00191,2025-08-25,CUST0075,Running Shoes,Fashion,3,2476.58,0.1,Cash on Delivery,Nagpur,Delivered,6686.77
+ORD00192,2025-03-17,CUST0040,Casual T-Shirt,Fashion,3,762.67,0.2,Cash on Delivery,Nagpur,Delivered,1830.41
+ORD00193,2025-11-08,CUST0188,Storage Organizer,Home,1,784,0.05,Credit Card,Nashik,Delivered,744.8
+ORD00194,2025-03-02,CUST0055,Wireless Headphones,Electronics,1,2670.88,0.2,Debit Card,Thane,Returned,2136.7
+ORD00195,2025-07-19,CUST0217,Smart Watch,Electronics,2,5107.04,0,Debit Card,Pune,Cancelled,10214.08
+ORD00196,2025-06-28,CUST0091,Skincare Set,Beauty,2,1335.34,0.1,Debit Card,Aurangabad,Cancelled,2403.61
+ORD00197,2025-03-26,CUST0235,Running Shoes,Fashion,2,2088.45,0.05,Credit Card,Aurangabad,Delivered,3968.05
+ORD00198,2025-02-13,CUST0071,Casual T-Shirt,Fashion,2,688.81,0.1,Debit Card,Nanded,Cancelled,1239.86
+ORD00199,2025-03-03,CUST0249,Table Lamp,Home,3,1330.36,0.15,Cash on Delivery,Aurangabad,Cancelled,3392.42
+ORD00200,2025-03-20,CUST0060,Running Shoes,Fashion,2,2510.69,0.15,Credit Card,Aurangabad,Cancelled,4268.17
+ORD00201,2025-05-10,CUST0062,Skincare Set,Beauty,3,1378.34,0.2,Debit Card,Mumbai,Delivered,3308.02
+ORD00202,2025-04-23,CUST0081,Running Shoes,Fashion,1,2278.12,0.2,Cash on Delivery,Nagpur,Returned,1822.5
+ORD00203,2025-07-20,CUST0073,Casual T-Shirt,Fashion,3,760.74,0.2,Cash on Delivery,Nagpur,Delivered,1825.78
+ORD00204,2025-08-11,CUST0171,Running Shoes,Fashion,2,2094.66,0.05,UPI,Nagpur,Returned,3979.85
+ORD00205,2025-07-02,CUST0148,Storage Organizer,Home,2,949.05,0,UPI,Nanded,Delivered,1898.1
+ORD00206,2025-04-19,CUST0166,Skincare Set,Beauty,2,1529.21,0,Credit Card,Nanded,Cancelled,3058.42
+ORD00207,2025-02-16,CUST0021,Smart Watch,Electronics,2,4380.32,0,UPI,Nashik,Delivered,8760.64
+ORD00208,2025-07-30,CUST0013,Yoga Mat,Sports,1,923.99,0.1,UPI,Nanded,Delivered,831.59
+ORD00209,2025-01-28,CUST0136,Yoga Mat,Sports,2,1065.67,0.15,Cash on Delivery,Aurangabad,Delivered,1811.64
+ORD00210,2025-07-07,CUST0247,Storage Organizer,Home,2,908.67,0.1,Debit Card,Nashik,Returned,1635.61
+ORD00211,2025-06-05,CUST0144,Storage Organizer,Home,1,1030.77,0.2,Credit Card,Nashik,Delivered,824.62
+ORD00212,2025-08-18,CUST0206,Storage Organizer,Home,3,898.33,0.2,UPI,Nagpur,Delivered,2155.99
+ORD00213,2025-04-12,CUST0045,Casual T-Shirt,Fashion,2,615.08,0.1,Debit Card,Aurangabad,Delivered,1107.14
+ORD00214,2025-12-29,CUST0137,Storage Organizer,Home,3,967.78,0,Debit Card,Thane,Delivered,2903.34
+ORD00215,2025-05-28,CUST0108,Yoga Mat,Sports,3,855.26,0,UPI,Nagpur,Delivered,2565.78
+ORD00216,2025-07-21,CUST0042,Smart Watch,Electronics,3,5354.96,0.2,Credit Card,Pune,Delivered,12851.9
+ORD00217,2025-06-03,CUST0058,Running Shoes,Fashion,2,2123.29,0.15,Debit Card,Nanded,Delivered,3609.59
+ORD00218,2025-01-21,CUST0243,Smart Watch,Electronics,2,5527.65,0,Cash on Delivery,Thane,Delivered,11055.3
+ORD00219,2025-11-23,CUST0094,Table Lamp,Home,3,1132.75,0.05,Debit Card,Aurangabad,Delivered,3228.34
+ORD00220,2025-04-15,CUST0092,Storage Organizer,Home,3,906.45,0.1,Credit Card,Mumbai,Delivered,2447.42
+ORD00221,2025-08-10,CUST0060,Yoga Mat,Sports,3,1135.69,0.15,Cash on Delivery,Nagpur,Delivered,2896.01
+ORD00222,2025-12-11,CUST0086,Wireless Headphones,Electronics,1,2870.37,0,Credit Card,Pune,Delivered,2870.37
+ORD00223,2025-11-18,CUST0137,Skincare Set,Beauty,3,1451.63,0.1,Debit Card,Thane,Delivered,3919.4
+ORD00224,2025-07-26,CUST0106,Wireless Headphones,Electronics,1,2428.18,0.2,Debit Card,Pune,Delivered,1942.54
+ORD00225,2025-07-06,CUST0156,Running Shoes,Fashion,1,2279.21,0.15,UPI,Thane,Returned,1937.33
+ORD00226,2025-08-30,CUST0098,Table Lamp,Home,1,1259.26,0,UPI,Nagpur,Delivered,1259.26
+ORD00227,2025-06-30,CUST0205,Running Shoes,Fashion,1,1881.55,0,Credit Card,Mumbai,Delivered,1881.55
+ORD00228,2025-04-16,CUST0080,Table Lamp,Home,1,1198.25,0.1,Debit Card,Aurangabad,Delivered,1078.42
+ORD00229,2025-05-18,CUST0241,Casual T-Shirt,Fashion,1,766.04,0.05,UPI,Mumbai,Delivered,727.74
+ORD00230,2025-07-25,CUST0241,Running Shoes,Fashion,1,1928.23,0.1,Cash on Delivery,Thane,Cancelled,1735.41
+ORD00231,2025-01-10,CUST0072,Storage Organizer,Home,1,958.14,0.1,UPI,Nagpur,Delivered,862.33
+ORD00232,2025-09-17,CUST0183,Table Lamp,Home,2,1256.71,0.1,Cash on Delivery,Nanded,Delivered,2262.08
+ORD00233,2025-07-14,CUST0207,Running Shoes,Fashion,2,2260.15,0.05,Debit Card,Nashik,Delivered,4294.28
+ORD00234,2025-06-13,CUST0040,Table Lamp,Home,3,1135.41,0.05,Cash on Delivery,Nanded,Delivered,3235.92
+ORD00235,2025-04-25,CUST0149,Smart Watch,Electronics,2,5462.04,0.05,Debit Card,Mumbai,Returned,10377.88
+ORD00236,2025-11-09,CUST0048,Wireless Headphones,Electronics,2,2433.95,0.1,Debit Card,Nashik,Delivered,4381.11
+ORD00237,2025-01-24,CUST0240,Smart Watch,Electronics,1,5439.71,0.15,Credit Card,Nashik,Delivered,4623.75
+ORD00238,2025-02-26,CUST0194,Smart Watch,Electronics,1,4726.06,0.1,UPI,Nanded,Delivered,4253.45
+ORD00239,2025-04-13,CUST0219,Casual T-Shirt,Fashion,2,670.85,0.2,UPI,Nashik,Delivered,1073.36
+ORD00240,2025-10-26,CUST0244,Casual T-Shirt,Fashion,2,669.81,0.15,UPI,Mumbai,Delivered,1138.68
+ORD00241,2025-05-17,CUST0171,Running Shoes,Fashion,3,2020.27,0.15,Credit Card,Mumbai,Delivered,5151.69
+ORD00242,2025-12-14,CUST0236,Casual T-Shirt,Fashion,3,610.09,0.15,Debit Card,Nagpur,Delivered,1555.73
+ORD00243,2025-07-14,CUST0100,Casual T-Shirt,Fashion,2,744.42,0.15,UPI,Pune,Cancelled,1265.51
+ORD00244,2025-10-21,CUST0051,Casual T-Shirt,Fashion,3,788.05,0.05,Credit Card,Nashik,Delivered,2245.94
+ORD00245,2025-10-21,CUST0206,Casual T-Shirt,Fashion,2,737.95,0.2,Cash on Delivery,Pune,Delivered,1180.72
+ORD00246,2025-03-23,CUST0024,Storage Organizer,Home,3,942.39,0,Credit Card,Mumbai,Cancelled,2827.17
+ORD00247,2025-03-31,CUST0066,Skincare Set,Beauty,1,1386.54,0,Credit Card,Mumbai,Returned,1386.54
+ORD00248,2025-01-29,CUST0244,Yoga Mat,Sports,1,1128.28,0.2,Debit Card,Aurangabad,Cancelled,902.62
+ORD00249,2025-08-05,CUST0123,Storage Organizer,Home,1,778.41,0.1,UPI,Nashik,Cancelled,700.57
+ORD00250,2025-03-18,CUST0172,Skincare Set,Beauty,1,1536.48,0.05,Debit Card,Aurangabad,Delivered,1459.66
+ORD00251,2025-10-10,CUST0171,Storage Organizer,Home,3,1004.95,0.2,Cash on Delivery,Nashik,Delivered,2411.88
+ORD00252,2025-03-18,CUST0124,Wireless Headphones,Electronics,1,2851.33,0.15,UPI,Aurangabad,Delivered,2423.63
+ORD00253,2025-09-30,CUST0134,Wireless Headphones,Electronics,2,2862.5,0.15,Credit Card,Aurangabad,Delivered,4866.25
+ORD00254,2025-11-02,CUST0063,Skincare Set,Beauty,1,1535.55,0.2,UPI,Nanded,Cancelled,1228.44
+ORD00255,2025-09-13,CUST0189,Storage Organizer,Home,2,986.9,0.15,UPI,Nagpur,Delivered,1677.73
+ORD00256,2025-03-25,CUST0124,Wireless Headphones,Electronics,2,2243.67,0.15,Cash on Delivery,Nagpur,Delivered,3814.24
+ORD00257,2025-09-11,CUST0136,Casual T-Shirt,Fashion,3,764.55,0,Credit Card,Nagpur,Returned,2293.65
+ORD00258,2025-11-22,CUST0183,Storage Organizer,Home,2,800.76,0.1,Cash on Delivery,Aurangabad,Returned,1441.37
+ORD00259,2025-04-10,CUST0175,Storage Organizer,Home,2,835.82,0.15,Cash on Delivery,Nashik,Delivered,1420.89
+ORD00260,2025-08-19,CUST0111,Running Shoes,Fashion,2,2082.61,0,Cash on Delivery,Pune,Delivered,4165.22
+ORD00261,2025-09-28,CUST0160,Casual T-Shirt,Fashion,2,731.36,0.1,UPI,Nashik,Delivered,1316.45
+ORD00262,2025-01-16,CUST0053,Smart Watch,Electronics,3,4805.62,0.15,Credit Card,Nanded,Delivered,12254.33
+ORD00263,2025-06-04,CUST0247,Skincare Set,Beauty,1,1450.87,0,Cash on Delivery,Thane,Returned,1450.87
+ORD00264,2025-04-26,CUST0082,Table Lamp,Home,1,1138.74,0.1,Cash on Delivery,Nagpur,Delivered,1024.87
+ORD00265,2025-09-19,CUST0121,Casual T-Shirt,Fashion,2,789.25,0.05,Cash on Delivery,Pune,Returned,1499.57
+ORD00266,2025-07-06,CUST0112,Skincare Set,Beauty,1,1489.61,0.2,Credit Card,Aurangabad,Delivered,1191.69
+ORD00267,2025-11-07,CUST0218,Casual T-Shirt,Fashion,1,752.27,0.15,Debit Card,Mumbai,Delivered,639.43
+ORD00268,2025-11-24,CUST0003,Wireless Headphones,Electronics,3,2626.54,0.1,Debit Card,Pune,Delivered,7091.66
+ORD00269,2025-05-02,CUST0065,Wireless Headphones,Electronics,2,2674.43,0.15,UPI,Nanded,Delivered,4546.53
+ORD00270,2025-05-11,CUST0197,Table Lamp,Home,2,1127.1,0.2,Debit Card,Nanded,Delivered,1803.36
+ORD00271,2025-10-28,CUST0049,Wireless Headphones,Electronics,2,2659.81,0.15,UPI,Nashik,Delivered,4521.68
+ORD00272,2025-12-31,CUST0108,Wireless Headphones,Electronics,2,2395.38,0.2,Credit Card,Nashik,Delivered,3832.61
+ORD00273,2025-02-18,CUST0119,Smart Watch,Electronics,3,5391.64,0.15,Cash on Delivery,Nanded,Returned,13748.68
+ORD00274,2025-09-12,CUST0119,Wireless Headphones,Electronics,1,2132.66,0.2,UPI,Thane,Returned,1706.13
+ORD00275,2025-09-16,CUST0123,Wireless Headphones,Electronics,3,2718.24,0.05,Credit Card,Aurangabad,Delivered,7746.98
+ORD00276,2025-06-09,CUST0044,Running Shoes,Fashion,1,2526.87,0.05,Debit Card,Pune,Delivered,2400.53
+ORD00277,2025-01-25,CUST0233,Skincare Set,Beauty,2,1614.55,0.15,Cash on Delivery,Nagpur,Delivered,2744.73
+ORD00278,2025-04-28,CUST0090,Running Shoes,Fashion,1,2450.36,0.05,Credit Card,Nagpur,Delivered,2327.84
+ORD00279,2025-05-23,CUST0201,Yoga Mat,Sports,1,1133.78,0.05,Debit Card,Nagpur,Returned,1077.09
+ORD00280,2025-06-06,CUST0037,Smart Watch,Electronics,3,5589.01,0.05,UPI,Thane,Delivered,15928.68
+ORD00281,2025-01-22,CUST0043,Storage Organizer,Home,3,944.35,0.15,Cash on Delivery,Pune,Delivered,2408.09
+ORD00282,2025-07-09,CUST0125,Yoga Mat,Sports,1,1084.16,0,UPI,Aurangabad,Returned,1084.16
+ORD00283,2025-01-14,CUST0172,Running Shoes,Fashion,2,1980.92,0,UPI,Mumbai,Delivered,3961.84
+ORD00284,2025-03-16,CUST0105,Casual T-Shirt,Fashion,1,604.53,0.15,Debit Card,Nanded,Delivered,513.85
+ORD00285,2025-02-10,CUST0056,Table Lamp,Home,2,1485.13,0,Debit Card,Pune,Cancelled,2970.26
+ORD00286,2025-02-05,CUST0055,Storage Organizer,Home,2,848.98,0.2,Credit Card,Nagpur,Delivered,1358.37
+ORD00287,2025-12-14,CUST0082,Yoga Mat,Sports,3,1118.2,0.1,Credit Card,Mumbai,Cancelled,3019.14
+ORD00288,2025-09-10,CUST0113,Running Shoes,Fashion,1,2269.88,0,UPI,Pune,Delivered,2269.88
+ORD00289,2025-10-16,CUST0128,Casual T-Shirt,Fashion,1,783.11,0,UPI,Pune,Delivered,783.11
+ORD00290,2025-11-17,CUST0149,Skincare Set,Beauty,1,1304.54,0.15,Cash on Delivery,Nagpur,Delivered,1108.86
+ORD00291,2025-06-01,CUST0190,Yoga Mat,Sports,1,902.42,0,UPI,Mumbai,Delivered,902.42
+ORD00292,2025-02-20,CUST0068,Skincare Set,Beauty,1,1655.66,0.05,Credit Card,Thane,Returned,1572.88
+ORD00293,2025-03-08,CUST0049,Smart Watch,Electronics,1,4868.5,0.2,UPI,Nashik,Returned,3894.8
+ORD00294,2025-02-28,CUST0106,Casual T-Shirt,Fashion,1,735.27,0,Cash on Delivery,Mumbai,Delivered,735.27
+ORD00295,2025-10-02,CUST0148,Skincare Set,Beauty,3,1523.43,0,UPI,Mumbai,Returned,4570.29
+ORD00296,2025-10-24,CUST0075,Skincare Set,Beauty,2,1379.98,0.05,Cash on Delivery,Nagpur,Returned,2621.96
+ORD00297,2025-08-16,CUST0083,Storage Organizer,Home,2,845.06,0.2,Debit Card,Nagpur,Delivered,1352.1
+ORD00298,2025-12-18,CUST0034,Running Shoes,Fashion,1,2183.8,0,Debit Card,Thane,Returned,2183.8
+ORD00299,2025-01-22,CUST0194,Yoga Mat,Sports,2,872.28,0.1,UPI,Aurangabad,Delivered,1570.1
+ORD00300,2025-03-15,CUST0231,Casual T-Shirt,Fashion,2,650.74,0,UPI,Pune,Returned,1301.48
+ORD00301,2025-10-19,CUST0161,Wireless Headphones,Electronics,3,2645.97,0.05,UPI,Mumbai,Delivered,7541.01
+ORD00302,2025-01-06,CUST0062,Table Lamp,Home,2,1207.24,0.15,Credit Card,Mumbai,Delivered,2052.31
+ORD00303,2025-04-29,CUST0060,Smart Watch,Electronics,2,5720.32,0.2,Credit Card,Nanded,Delivered,9152.51
+ORD00304,2025-04-23,CUST0001,Wireless Headphones,Electronics,3,2257.26,0.05,Debit Card,Mumbai,Delivered,6433.19
+ORD00305,2025-01-10,CUST0191,Wireless Headphones,Electronics,2,2725.23,0,UPI,Nanded,Cancelled,5450.46
+ORD00306,2025-10-11,CUST0067,Casual T-Shirt,Fashion,3,733.04,0.1,Debit Card,Nagpur,Returned,1979.21
+ORD00307,2025-11-06,CUST0128,Skincare Set,Beauty,2,1665.43,0.1,Cash on Delivery,Nanded,Delivered,2997.77
+ORD00308,2025-12-21,CUST0225,Wireless Headphones,Electronics,2,2640.22,0.05,Credit Card,Pune,Delivered,5016.42
+ORD00309,2025-10-29,CUST0050,Skincare Set,Beauty,1,1607.76,0,Credit Card,Pune,Returned,1607.76
+ORD00310,2025-01-07,CUST0046,Running Shoes,Fashion,1,1943.6,0.1,Credit Card,Aurangabad,Delivered,1749.24
+ORD00311,2025-03-17,CUST0147,Table Lamp,Home,1,1293.76,0.15,Credit Card,Nashik,Delivered,1099.7
+ORD00312,2025-04-30,CUST0177,Smart Watch,Electronics,1,4890.11,0.2,Debit Card,Nanded,Cancelled,3912.09
+ORD00313,2025-01-29,CUST0121,Yoga Mat,Sports,1,1077.82,0,UPI,Aurangabad,Delivered,1077.82
+ORD00314,2025-09-14,CUST0234,Wireless Headphones,Electronics,2,2544.35,0.2,Credit Card,Thane,Delivered,4070.96
+ORD00315,2025-03-10,CUST0175,Wireless Headphones,Electronics,1,2415.88,0.2,Debit Card,Mumbai,Delivered,1932.7
+ORD00316,2025-10-23,CUST0200,Running Shoes,Fashion,2,2318.69,0.1,UPI,Nanded,Delivered,4173.64
+ORD00317,2025-05-09,CUST0045,Storage Organizer,Home,2,825.1,0.15,Credit Card,Pune,Delivered,1402.67
+ORD00318,2025-03-19,CUST0126,Casual T-Shirt,Fashion,1,644.51,0.15,Debit Card,Nanded,Delivered,547.83
+ORD00319,2025-06-06,CUST0190,Smart Watch,Electronics,3,4431.29,0.05,UPI,Thane,Delivered,12629.18
+ORD00320,2025-05-03,CUST0221,Table Lamp,Home,2,1321.34,0.05,Debit Card,Mumbai,Returned,2510.55
+ORD00321,2025-04-07,CUST0182,Running Shoes,Fashion,2,1931.68,0,UPI,Nanded,Delivered,3863.36
+ORD00322,2025-02-26,CUST0122,Storage Organizer,Home,1,820.58,0.05,Debit Card,Nashik,Delivered,779.55
+ORD00323,2025-09-01,CUST0145,Running Shoes,Fashion,3,2329.48,0.1,Cash on Delivery,Nagpur,Cancelled,6289.6
+ORD00324,2025-07-26,CUST0024,Skincare Set,Beauty,3,1632.74,0,Debit Card,Aurangabad,Delivered,4898.22
+ORD00325,2025-11-16,CUST0077,Skincare Set,Beauty,1,1667.95,0.2,Cash on Delivery,Mumbai,Cancelled,1334.36
+ORD00326,2025-04-12,CUST0096,Running Shoes,Fashion,3,2207.57,0.15,Credit Card,Nagpur,Delivered,5629.3
+ORD00327,2025-11-08,CUST0044,Smart Watch,Electronics,1,4975.28,0.2,Cash on Delivery,Nanded,Delivered,3980.22
+ORD00328,2025-05-13,CUST0232,Casual T-Shirt,Fashion,1,755.16,0.05,Cash on Delivery,Nagpur,Cancelled,717.4
+ORD00329,2025-07-22,CUST0045,Skincare Set,Beauty,3,1368.6,0.05,UPI,Nashik,Returned,3900.51
+ORD00330,2025-04-13,CUST0208,Table Lamp,Home,3,1152.71,0,Debit Card,Nanded,Returned,3458.13
+ORD00331,2025-07-19,CUST0193,Table Lamp,Home,1,1417.16,0.05,Cash on Delivery,Nashik,Delivered,1346.3
+ORD00332,2025-11-15,CUST0245,Running Shoes,Fashion,1,2123.42,0,UPI,Aurangabad,Cancelled,2123.42
+ORD00333,2025-10-14,CUST0056,Running Shoes,Fashion,2,2247.28,0,Cash on Delivery,Thane,Delivered,4494.56
+ORD00334,2025-06-30,CUST0151,Casual T-Shirt,Fashion,2,604.7,0.05,Credit Card,Thane,Delivered,1148.93
+ORD00335,2025-04-22,CUST0073,Running Shoes,Fashion,3,2423.69,0.2,Debit Card,Nanded,Delivered,5816.86
+ORD00336,2025-10-28,CUST0198,Yoga Mat,Sports,2,1148.44,0.15,Credit Card,Nagpur,Delivered,1952.35
+ORD00337,2025-10-23,CUST0151,Running Shoes,Fashion,3,2385.79,0.05,UPI,Thane,Delivered,6799.5
+ORD00338,2025-09-25,CUST0036,Running Shoes,Fashion,2,2027.51,0,Debit Card,Mumbai,Delivered,4055.02
+ORD00339,2025-01-16,CUST0112,Casual T-Shirt,Fashion,1,737.08,0,Debit Card,Nagpur,Delivered,737.08
+ORD00340,2025-12-27,CUST0077,Yoga Mat,Sports,3,995.44,0.1,Debit Card,Mumbai,Delivered,2687.69
+ORD00341,2025-03-05,CUST0197,Storage Organizer,Home,1,837.47,0.1,Credit Card,Pune,Delivered,753.72
+ORD00342,2025-10-23,CUST0198,Table Lamp,Home,1,1179.91,0.05,Credit Card,Thane,Cancelled,1120.91
+ORD00343,2025-07-07,CUST0181,Table Lamp,Home,3,1320.6,0.2,Credit Card,Nashik,Delivered,3169.44
+ORD00344,2025-11-21,CUST0174,Storage Organizer,Home,2,791.85,0.05,Cash on Delivery,Pune,Cancelled,1504.51
+ORD00345,2025-06-26,CUST0086,Smart Watch,Electronics,2,4732.57,0.05,Cash on Delivery,Nanded,Returned,8991.88
+ORD00346,2025-06-30,CUST0042,Casual T-Shirt,Fashion,2,679.83,0.1,Cash on Delivery,Nanded,Cancelled,1223.69
+ORD00347,2025-06-07,CUST0212,Smart Watch,Electronics,1,5172.99,0,UPI,Nanded,Delivered,5172.99
+ORD00348,2025-03-16,CUST0144,Skincare Set,Beauty,2,1632.35,0.15,Debit Card,Mumbai,Delivered,2774.99
+ORD00349,2025-12-19,CUST0060,Casual T-Shirt,Fashion,1,746.13,0.05,Debit Card,Aurangabad,Delivered,708.82
+ORD00350,2025-12-08,CUST0059,Smart Watch,Electronics,3,4314.92,0.1,Cash on Delivery,Thane,Returned,11650.28
+ORD00351,2025-11-16,CUST0154,Skincare Set,Beauty,3,1650.36,0.1,UPI,Nanded,Delivered,4455.97
+ORD00352,2025-06-08,CUST0224,Wireless Headphones,Electronics,3,2185.95,0.15,Debit Card,Thane,Delivered,5574.17
+ORD00353,2025-08-30,CUST0150,Running Shoes,Fashion,1,2234.9,0,Debit Card,Thane,Delivered,2234.9
+ORD00354,2025-10-10,CUST0014,Wireless Headphones,Electronics,2,2474.37,0,Cash on Delivery,Thane,Returned,4948.74
+ORD00355,2025-12-21,CUST0016,Wireless Headphones,Electronics,2,2759.16,0.15,Credit Card,Mumbai,Delivered,4690.57
+ORD00356,2025-10-25,CUST0244,Table Lamp,Home,1,1364.42,0,Cash on Delivery,Aurangabad,Returned,1364.42
+ORD00357,2025-05-01,CUST0030,Casual T-Shirt,Fashion,1,599.48,0,Cash on Delivery,Pune,Delivered,599.48
+ORD00358,2025-07-13,CUST0067,Smart Watch,Electronics,2,5073.14,0.05,Cash on Delivery,Nashik,Delivered,9638.97
+ORD00359,2025-01-11,CUST0096,Casual T-Shirt,Fashion,1,760.15,0.1,UPI,Thane,Delivered,684.13
+ORD00360,2025-07-13,CUST0127,Storage Organizer,Home,3,868.93,0.2,Credit Card,Nashik,Returned,2085.43
+ORD00361,2025-05-22,CUST0138,Table Lamp,Home,3,1346.54,0.2,Credit Card,Pune,Delivered,3231.7
+ORD00362,2025-12-15,CUST0193,Skincare Set,Beauty,3,1662.51,0.1,Cash on Delivery,Nashik,Delivered,4488.78
+ORD00363,2025-08-14,CUST0040,Running Shoes,Fashion,1,2222.27,0.1,UPI,Thane,Delivered,2000.04
+ORD00364,2025-08-29,CUST0123,Wireless Headphones,Electronics,3,2278.15,0.15,Cash on Delivery,Thane,Delivered,5809.28
+ORD00365,2025-06-12,CUST0013,Yoga Mat,Sports,1,1137.38,0.15,UPI,Nanded,Cancelled,966.77
+ORD00366,2025-06-07,CUST0049,Casual T-Shirt,Fashion,2,630.26,0,Cash on Delivery,Aurangabad,Delivered,1260.52
+ORD00367,2025-03-29,CUST0177,Casual T-Shirt,Fashion,2,761.26,0.15,UPI,Pune,Delivered,1294.14
+ORD00368,2025-07-07,CUST0101,Yoga Mat,Sports,1,933.44,0.2,UPI,Mumbai,Cancelled,746.75
+ORD00369,2025-04-27,CUST0063,Skincare Set,Beauty,3,1316.09,0.1,Cash on Delivery,Mumbai,Delivered,3553.44
+ORD00370,2025-08-17,CUST0016,Smart Watch,Electronics,2,5518.1,0.15,UPI,Pune,Delivered,9380.77
+ORD00371,2025-08-02,CUST0157,Running Shoes,Fashion,3,1893.62,0,Debit Card,Pune,Delivered,5680.86
+ORD00372,2025-03-15,CUST0023,Yoga Mat,Sports,3,969.41,0.1,Cash on Delivery,Thane,Delivered,2617.41
+ORD00373,2025-07-16,CUST0077,Table Lamp,Home,2,1174.92,0.15,Cash on Delivery,Mumbai,Returned,1997.36
+ORD00374,2025-12-18,CUST0203,Casual T-Shirt,Fashion,1,616.01,0,Credit Card,Nashik,Returned,616.01
+ORD00375,2025-08-03,CUST0226,Storage Organizer,Home,2,812.53,0.15,Cash on Delivery,Nagpur,Delivered,1381.3
+ORD00376,2025-08-14,CUST0042,Casual T-Shirt,Fashion,1,647.52,0,UPI,Nanded,Returned,647.52
+ORD00377,2025-09-12,CUST0093,Running Shoes,Fashion,1,2386.57,0,UPI,Nagpur,Cancelled,2386.57
+ORD00378,2025-08-25,CUST0001,Running Shoes,Fashion,2,2011.16,0.05,Credit Card,Nagpur,Delivered,3821.2
+ORD00379,2025-09-05,CUST0027,Yoga Mat,Sports,3,996.7,0,Debit Card,Nagpur,Delivered,2990.1
+ORD00380,2025-03-15,CUST0236,Casual T-Shirt,Fashion,3,665.7,0.05,Cash on Delivery,Nashik,Delivered,1897.25
+ORD00381,2025-04-07,CUST0046,Storage Organizer,Home,2,810.46,0,Debit Card,Thane,Delivered,1620.92
+ORD00382,2025-04-13,CUST0114,Yoga Mat,Sports,3,864.7,0.15,Debit Card,Nanded,Cancelled,2204.99
+ORD00383,2025-12-29,CUST0137,Table Lamp,Home,3,1186.26,0,Credit Card,Pune,Delivered,3558.78
+ORD00384,2025-02-25,CUST0028,Smart Watch,Electronics,2,5031.64,0.15,Debit Card,Aurangabad,Cancelled,8553.79
+ORD00385,2025-08-10,CUST0184,Table Lamp,Home,3,1257.65,0.1,UPI,Aurangabad,Delivered,3395.66
+ORD00386,2025-04-22,CUST0019,Wireless Headphones,Electronics,2,2602.65,0.2,Cash on Delivery,Pune,Cancelled,4164.24
+ORD00387,2025-06-22,CUST0111,Wireless Headphones,Electronics,1,2667.42,0.15,UPI,Thane,Delivered,2267.31
+ORD00388,2025-12-06,CUST0186,Skincare Set,Beauty,2,1486.67,0.2,Debit Card,Nashik,Delivered,2378.67
+ORD00389,2025-05-20,CUST0052,Table Lamp,Home,3,1122.99,0.2,Cash on Delivery,Nashik,Delivered,2695.18
+ORD00390,2025-10-24,CUST0161,Running Shoes,Fashion,2,2252.62,0.05,UPI,Thane,Delivered,4279.98
+ORD00391,2025-01-11,CUST0112,Yoga Mat,Sports,3,973.12,0.15,UPI,Mumbai,Delivered,2481.46
+ORD00392,2025-04-06,CUST0090,Casual T-Shirt,Fashion,3,712.69,0.2,Credit Card,Mumbai,Delivered,1710.46
+ORD00393,2025-07-29,CUST0167,Storage Organizer,Home,2,1020.52,0.1,Cash on Delivery,Nagpur,Cancelled,1836.94
+ORD00394,2025-07-02,CUST0209,Storage Organizer,Home,1,906.04,0.05,Cash on Delivery,Pune,Returned,860.74
+ORD00395,2025-04-15,CUST0019,Smart Watch,Electronics,3,4930.96,0,Credit Card,Mumbai,Delivered,14792.88
+ORD00396,2025-12-15,CUST0012,Table Lamp,Home,2,1468.15,0.05,Credit Card,Nagpur,Delivered,2789.49
+ORD00397,2025-10-05,CUST0037,Smart Watch,Electronics,1,4490.79,0.05,Debit Card,Aurangabad,Delivered,4266.25
+ORD00398,2025-09-24,CUST0061,Wireless Headphones,Electronics,2,2144.27,0.05,Credit Card,Thane,Returned,4074.11
+ORD00399,2025-07-20,CUST0231,Skincare Set,Beauty,1,1355.78,0.15,Cash on Delivery,Aurangabad,Delivered,1152.41
+ORD00400,2025-03-29,CUST0244,Wireless Headphones,Electronics,3,2684.32,0.15,UPI,Nagpur,Delivered,6845.02
+ORD00401,2025-06-20,CUST0042,Casual T-Shirt,Fashion,2,609.37,0.15,Credit Card,Nanded,Delivered,1035.93
+ORD00402,2025-01-13,CUST0034,Skincare Set,Beauty,3,1486.82,0,Debit Card,Nanded,Cancelled,4460.46
+ORD00403,2025-12-23,CUST0174,Yoga Mat,Sports,1,1096.39,0.15,Cash on Delivery,Nagpur,Returned,931.93
+ORD00404,2025-06-25,CUST0178,Table Lamp,Home,3,1473.74,0.15,UPI,Nanded,Returned,3758.04
+ORD00405,2025-08-31,CUST0206,Yoga Mat,Sports,1,1001.64,0.2,Debit Card,Nanded,Delivered,801.31
+ORD00406,2025-07-06,CUST0063,Storage Organizer,Home,2,1023.52,0,Cash on Delivery,Mumbai,Delivered,2047.04
+ORD00407,2025-02-26,CUST0099,Wireless Headphones,Electronics,2,2656.18,0.2,UPI,Nagpur,Delivered,4249.89
+ORD00408,2025-05-29,CUST0049,Wireless Headphones,Electronics,3,2861.41,0.1,Debit Card,Thane,Delivered,7725.81
+ORD00409,2025-09-17,CUST0224,Running Shoes,Fashion,2,1895.66,0,Cash on Delivery,Nanded,Delivered,3791.32
+ORD00410,2025-12-06,CUST0225,Smart Watch,Electronics,1,4636.09,0.05,Cash on Delivery,Nagpur,Delivered,4404.29
+ORD00411,2025-07-16,CUST0065,Storage Organizer,Home,1,828.43,0.15,UPI,Aurangabad,Delivered,704.17
+ORD00412,2025-04-08,CUST0092,Yoga Mat,Sports,3,932.32,0.05,UPI,Aurangabad,Delivered,2657.11
+ORD00413,2025-05-23,CUST0190,Yoga Mat,Sports,1,1139.23,0,Cash on Delivery,Aurangabad,Delivered,1139.23
+ORD00414,2025-07-17,CUST0021,Casual T-Shirt,Fashion,3,642.62,0,Credit Card,Nanded,Delivered,1927.86
+ORD00415,2025-06-09,CUST0068,Casual T-Shirt,Fashion,1,644.39,0,Credit Card,Mumbai,Delivered,644.39
+ORD00416,2025-07-17,CUST0168,Skincare Set,Beauty,3,1489.97,0.1,Credit Card,Nagpur,Delivered,4022.92
+ORD00417,2025-10-19,CUST0235,Casual T-Shirt,Fashion,3,736.79,0.05,Credit Card,Nagpur,Delivered,2099.85
+ORD00418,2025-10-30,CUST0119,Casual T-Shirt,Fashion,3,680.17,0.1,Cash on Delivery,Mumbai,Delivered,1836.46
+ORD00419,2025-07-10,CUST0071,Smart Watch,Electronics,3,5011.11,0.2,Cash on Delivery,Thane,Delivered,12026.66
+ORD00420,2025-02-03,CUST0248,Table Lamp,Home,2,1392.53,0,Credit Card,Mumbai,Delivered,2785.06
+ORD00421,2025-03-13,CUST0155,Yoga Mat,Sports,1,949.18,0.05,Credit Card,Pune,Delivered,901.72
+ORD00422,2025-10-16,CUST0116,Table Lamp,Home,2,1317.74,0.05,Debit Card,Thane,Delivered,2503.71
+ORD00423,2025-01-20,CUST0043,Smart Watch,Electronics,3,5172.47,0.1,UPI,Mumbai,Delivered,13965.67
+ORD00424,2025-11-24,CUST0201,Wireless Headphones,Electronics,3,2522.75,0,Cash on Delivery,Pune,Cancelled,7568.25
+ORD00425,2025-02-24,CUST0112,Yoga Mat,Sports,3,868.19,0.2,Cash on Delivery,Nanded,Delivered,2083.66
+ORD00426,2025-06-08,CUST0138,Storage Organizer,Home,2,854.46,0.2,Cash on Delivery,Aurangabad,Cancelled,1367.14
+ORD00427,2025-04-06,CUST0117,Skincare Set,Beauty,1,1418.37,0,UPI,Aurangabad,Delivered,1418.37
+ORD00428,2025-10-13,CUST0123,Running Shoes,Fashion,2,2391.1,0.1,UPI,Nanded,Cancelled,4303.98
+ORD00429,2025-07-15,CUST0117,Yoga Mat,Sports,1,901.28,0.1,Credit Card,Nanded,Cancelled,811.15
+ORD00430,2025-07-22,CUST0217,Storage Organizer,Home,3,939.83,0.1,Credit Card,Pune,Delivered,2537.54
+ORD00431,2025-08-14,CUST0113,Skincare Set,Beauty,2,1343.55,0.2,UPI,Nashik,Returned,2149.68
+ORD00432,2025-10-01,CUST0038,Skincare Set,Beauty,3,1446.78,0,Credit Card,Pune,Cancelled,4340.34
+ORD00433,2025-03-30,CUST0004,Skincare Set,Beauty,2,1280.76,0,UPI,Nashik,Delivered,2561.52
+ORD00434,2025-01-17,CUST0150,Table Lamp,Home,2,1105.45,0.2,Credit Card,Thane,Delivered,1768.72
+ORD00435,2025-12-01,CUST0157,Table Lamp,Home,1,1108.65,0.2,Cash on Delivery,Nanded,Delivered,886.92
+ORD00436,2025-10-28,CUST0099,Running Shoes,Fashion,3,1978.55,0.1,Credit Card,Mumbai,Delivered,5342.09
+ORD00437,2025-08-18,CUST0211,Smart Watch,Electronics,3,4990.43,0.05,UPI,Nanded,Cancelled,14222.73
+ORD00438,2025-03-31,CUST0128,Wireless Headphones,Electronics,2,2144.13,0.1,Cash on Delivery,Nanded,Delivered,3859.43
+ORD00439,2025-05-25,CUST0011,Skincare Set,Beauty,3,1645.38,0,Credit Card,Nagpur,Delivered,4936.14
+ORD00440,2025-07-17,CUST0217,Skincare Set,Beauty,1,1344.22,0.15,Debit Card,Nanded,Delivered,1142.59
+ORD00441,2025-02-03,CUST0234,Storage Organizer,Home,3,881.27,0.1,Cash on Delivery,Nagpur,Returned,2379.43
+ORD00442,2025-02-15,CUST0236,Wireless Headphones,Electronics,3,2277.78,0.1,Cash on Delivery,Nagpur,Cancelled,6150.01
+ORD00443,2025-04-30,CUST0234,Storage Organizer,Home,3,940.15,0.2,Cash on Delivery,Nanded,Cancelled,2256.36
+ORD00444,2025-07-01,CUST0145,Casual T-Shirt,Fashion,3,716.43,0.1,Credit Card,Mumbai,Delivered,1934.36
+ORD00445,2025-04-27,CUST0163,Running Shoes,Fashion,3,2012.63,0.1,UPI,Nagpur,Delivered,5434.1
+ORD00446,2025-04-05,CUST0232,Yoga Mat,Sports,3,905.86,0.15,Credit Card,Pune,Delivered,2309.94
+ORD00447,2025-10-23,CUST0148,Running Shoes,Fashion,2,2361.95,0,Credit Card,Aurangabad,Cancelled,4723.9
+ORD00448,2025-07-21,CUST0056,Skincare Set,Beauty,3,1646.12,0.1,Cash on Delivery,Nanded,Delivered,4444.52
+ORD00449,2025-01-06,CUST0059,Yoga Mat,Sports,2,979.08,0.1,Credit Card,Nanded,Delivered,1762.34
+ORD00450,2025-12-12,CUST0081,Casual T-Shirt,Fashion,3,669.9,0.2,Cash on Delivery,Pune,Returned,1607.76
+ORD00451,2025-09-04,CUST0119,Table Lamp,Home,2,1280.59,0.05,Debit Card,Pune,Delivered,2433.12
+ORD00452,2025-08-14,CUST0020,Table Lamp,Home,2,1304.52,0.2,Debit Card,Mumbai,Delivered,2087.23
+ORD00453,2025-04-05,CUST0210,Table Lamp,Home,3,1288.9,0.2,Cash on Delivery,Pune,Returned,3093.36
+ORD00454,2025-11-22,CUST0021,Skincare Set,Beauty,3,1512.51,0.05,Credit Card,Aurangabad,Delivered,4310.65
+ORD00455,2025-10-06,CUST0235,Skincare Set,Beauty,1,1719.8,0.2,Debit Card,Mumbai,Returned,1375.84
+ORD00456,2025-03-03,CUST0049,Table Lamp,Home,2,1215.93,0.05,Cash on Delivery,Aurangabad,Returned,2310.27
+ORD00457,2025-09-21,CUST0131,Table Lamp,Home,3,1213.98,0.05,Credit Card,Mumbai,Returned,3459.84
+ORD00458,2025-04-21,CUST0019,Storage Organizer,Home,3,1007.78,0,Debit Card,Pune,Delivered,3023.34
+ORD00459,2025-12-18,CUST0032,Storage Organizer,Home,2,891.18,0.05,UPI,Nagpur,Delivered,1693.24
+ORD00460,2025-10-26,CUST0234,Skincare Set,Beauty,2,1279.68,0.2,Debit Card,Mumbai,Cancelled,2047.49
+ORD00461,2025-05-30,CUST0234,Skincare Set,Beauty,2,1591.57,0.1,Debit Card,Aurangabad,Returned,2864.83
+ORD00462,2025-05-05,CUST0019,Yoga Mat,Sports,2,1066.07,0.15,UPI,Aurangabad,Delivered,1812.32
+ORD00463,2025-10-11,CUST0221,Table Lamp,Home,2,1378.17,0.05,Debit Card,Thane,Delivered,2618.52
+ORD00464,2025-09-08,CUST0023,Casual T-Shirt,Fashion,2,687.33,0.1,UPI,Nanded,Delivered,1237.19
+ORD00465,2025-09-17,CUST0164,Casual T-Shirt,Fashion,1,629.02,0.05,Credit Card,Mumbai,Delivered,597.57
+ORD00466,2025-04-08,CUST0211,Skincare Set,Beauty,1,1369.02,0.1,Credit Card,Thane,Cancelled,1232.12
+ORD00467,2025-04-25,CUST0182,Wireless Headphones,Electronics,3,2605.07,0.1,Debit Card,Nanded,Returned,7033.69
+ORD00468,2025-05-16,CUST0033,Skincare Set,Beauty,2,1546.41,0.15,Cash on Delivery,Nanded,Delivered,2628.9
+ORD00469,2025-11-03,CUST0087,Skincare Set,Beauty,1,1535.89,0.15,UPI,Nanded,Delivered,1305.51
+ORD00470,2025-09-25,CUST0097,Running Shoes,Fashion,1,2330.67,0.2,Debit Card,Aurangabad,Delivered,1864.54
+ORD00471,2025-12-11,CUST0067,Storage Organizer,Home,3,908.28,0.05,Credit Card,Nanded,Delivered,2588.6
+ORD00472,2025-09-12,CUST0071,Skincare Set,Beauty,1,1455.67,0,Cash on Delivery,Pune,Delivered,1455.67
+ORD00473,2025-12-30,CUST0056,Casual T-Shirt,Fashion,2,754.37,0.1,Cash on Delivery,Aurangabad,Delivered,1357.87
+ORD00474,2025-01-09,CUST0217,Smart Watch,Electronics,2,4421.15,0.15,Debit Card,Nashik,Cancelled,7515.95
+ORD00475,2025-01-24,CUST0144,Casual T-Shirt,Fashion,1,617.55,0,Credit Card,Thane,Delivered,617.55
+ORD00476,2025-08-19,CUST0142,Casual T-Shirt,Fashion,3,646.84,0,UPI,Nashik,Delivered,1940.52
+ORD00477,2025-11-06,CUST0127,Running Shoes,Fashion,3,2349.21,0.2,Cash on Delivery,Nanded,Delivered,5638.1
+ORD00478,2025-04-03,CUST0173,Table Lamp,Home,3,1172.06,0.2,Credit Card,Thane,Delivered,2812.94
+ORD00479,2025-09-02,CUST0098,Yoga Mat,Sports,3,964.54,0.1,UPI,Nashik,Returned,2604.26
+ORD00480,2025-01-06,CUST0235,Smart Watch,Electronics,3,5297.89,0.2,Credit Card,Nagpur,Delivered,12714.94
+ORD00481,2025-02-12,CUST0209,Casual T-Shirt,Fashion,1,725.65,0.2,UPI,Thane,Cancelled,580.52
+ORD00482,2025-10-09,CUST0204,Wireless Headphones,Electronics,2,2844.04,0.05,Debit Card,Pune,Returned,5403.68
+ORD00483,2025-09-08,CUST0059,Yoga Mat,Sports,2,1116.59,0.15,Cash on Delivery,Thane,Delivered,1898.2
+ORD00484,2025-12-24,CUST0031,Smart Watch,Electronics,2,4781.22,0.1,Credit Card,Aurangabad,Delivered,8606.2
+ORD00485,2025-05-25,CUST0206,Storage Organizer,Home,1,835.56,0,UPI,Nanded,Delivered,835.56
+ORD00486,2025-04-25,CUST0059,Table Lamp,Home,3,1395.64,0.15,Debit Card,Aurangabad,Delivered,3558.88
+ORD00487,2025-04-07,CUST0179,Table Lamp,Home,1,1283.85,0.1,UPI,Mumbai,Delivered,1155.46
+ORD00488,2025-03-12,CUST0221,Smart Watch,Electronics,3,5142.23,0.2,Cash on Delivery,Nanded,Delivered,12341.35
+ORD00489,2025-06-26,CUST0056,Wireless Headphones,Electronics,3,2408.67,0.15,Credit Card,Pune,Delivered,6142.11
+ORD00490,2025-08-29,CUST0053,Storage Organizer,Home,2,827.66,0.1,Credit Card,Pune,Delivered,1489.79
+ORD00491,2025-07-05,CUST0166,Skincare Set,Beauty,2,1643.44,0.05,Cash on Delivery,Nanded,Delivered,3122.54
+ORD00492,2025-05-14,CUST0189,Yoga Mat,Sports,3,1103.43,0.05,Credit Card,Nagpur,Delivered,3144.78
+ORD00493,2025-11-06,CUST0106,Yoga Mat,Sports,1,898.8,0.15,Credit Card,Aurangabad,Returned,763.98
+ORD00494,2025-10-13,CUST0192,Wireless Headphones,Electronics,3,2545.82,0.1,Cash on Delivery,Mumbai,Cancelled,6873.71
+ORD00495,2025-04-25,CUST0222,Table Lamp,Home,3,1355.15,0.2,UPI,Nanded,Delivered,3252.36
+ORD00496,2025-07-31,CUST0119,Casual T-Shirt,Fashion,3,687.95,0.2,Credit Card,Nashik,Cancelled,1651.08
+ORD00497,2025-01-09,CUST0041,Running Shoes,Fashion,1,2348.88,0.1,Cash on Delivery,Mumbai,Returned,2113.99
+ORD00498,2025-10-27,CUST0098,Storage Organizer,Home,3,969.11,0.1,UPI,Mumbai,Returned,2616.6
+ORD00499,2025-04-10,CUST0157,Skincare Set,Beauty,3,1650.74,0.15,Cash on Delivery,Pune,Delivered,4209.39
+ORD00500,2025-05-31,CUST0170,Wireless Headphones,Electronics,2,2375.05,0.15,Cash on Delivery,Pune,Delivered,4037.59
+ORD00501,2025-01-12,CUST0188,Running Shoes,Fashion,2,2145.66,0,UPI,Nashik,Delivered,4291.32
+ORD00502,2025-04-18,CUST0017,Running Shoes,Fashion,1,2213.29,0.05,Cash on Delivery,Nanded,Cancelled,2102.63
+ORD00503,2025-11-20,CUST0019,Smart Watch,Electronics,1,4507.03,0.2,UPI,Aurangabad,Delivered,3605.62
+ORD00504,2025-12-10,CUST0141,Running Shoes,Fashion,2,1951.29,0.2,Cash on Delivery,Mumbai,Delivered,3122.06
+ORD00505,2025-02-25,CUST0048,Yoga Mat,Sports,1,933.12,0.15,Cash on Delivery,Nanded,Delivered,793.15
+ORD00506,2025-06-13,CUST0011,Table Lamp,Home,2,1274.32,0.15,Cash on Delivery,Aurangabad,Delivered,2166.34
+ORD00507,2025-06-21,CUST0116,Running Shoes,Fashion,1,2245.27,0,Credit Card,Thane,Delivered,2245.27
+ORD00508,2025-01-20,CUST0150,Running Shoes,Fashion,2,2061.04,0,Debit Card,Nashik,Returned,4122.08
+ORD00509,2025-08-11,CUST0232,Running Shoes,Fashion,2,1875.01,0.15,Debit Card,Aurangabad,Cancelled,3187.52
+ORD00510,2025-08-09,CUST0244,Skincare Set,Beauty,3,1307.92,0.15,Cash on Delivery,Thane,Cancelled,3335.2
+ORD00511,2025-07-14,CUST0158,Storage Organizer,Home,1,935.05,0.1,Debit Card,Aurangabad,Delivered,841.54
+ORD00512,2025-08-30,CUST0127,Wireless Headphones,Electronics,3,2497.41,0.15,Cash on Delivery,Aurangabad,Delivered,6368.4
+ORD00513,2025-01-14,CUST0040,Casual T-Shirt,Fashion,3,633.43,0.05,Debit Card,Thane,Delivered,1805.28
+ORD00514,2025-12-07,CUST0076,Yoga Mat,Sports,2,1018.99,0.05,UPI,Thane,Delivered,1936.08
+ORD00515,2025-07-07,CUST0028,Casual T-Shirt,Fashion,3,644.18,0.15,Debit Card,Thane,Delivered,1642.66
+ORD00516,2025-10-10,CUST0006,Wireless Headphones,Electronics,2,2376.93,0.05,Cash on Delivery,Thane,Delivered,4516.17
+ORD00517,2025-10-02,CUST0240,Skincare Set,Beauty,3,1591,0.1,Debit Card,Pune,Cancelled,4295.7
+ORD00518,2025-01-05,CUST0013,Skincare Set,Beauty,3,1527.5,0.2,UPI,Nashik,Cancelled,3666
+ORD00519,2025-02-14,CUST0011,Storage Organizer,Home,1,838.52,0.15,Credit Card,Aurangabad,Delivered,712.74
+ORD00520,2025-06-28,CUST0064,Table Lamp,Home,2,1489.22,0.1,Credit Card,Nashik,Delivered,2680.6
+ORD00521,2025-03-14,CUST0146,Casual T-Shirt,Fashion,3,716.56,0.2,Cash on Delivery,Pune,Returned,1719.74
+ORD00522,2025-01-27,CUST0101,Wireless Headphones,Electronics,1,2668.46,0,Debit Card,Nagpur,Delivered,2668.46
+ORD00523,2025-09-22,CUST0130,Table Lamp,Home,2,1441.25,0.2,Credit Card,Nashik,Returned,2306
+ORD00524,2025-05-20,CUST0150,Table Lamp,Home,3,1324.88,0.05,Credit Card,Nanded,Cancelled,3775.91
+ORD00525,2025-02-20,CUST0189,Smart Watch,Electronics,1,5246.99,0,Cash on Delivery,Pune,Delivered,5246.99
+ORD00526,2025-11-06,CUST0183,Storage Organizer,Home,1,798.27,0,Credit Card,Pune,Delivered,798.27
+ORD00527,2025-06-19,CUST0053,Table Lamp,Home,2,1346.27,0.1,Credit Card,Nashik,Delivered,2423.29
+ORD00528,2025-11-07,CUST0123,Table Lamp,Home,2,1173.15,0.15,Debit Card,Aurangabad,Delivered,1994.36
+ORD00529,2025-05-26,CUST0202,Table Lamp,Home,3,1435.54,0,Credit Card,Thane,Delivered,4306.62
+ORD00530,2025-05-06,CUST0228,Wireless Headphones,Electronics,1,2277.94,0.15,Cash on Delivery,Nanded,Returned,1936.25
+ORD00531,2025-02-09,CUST0073,Running Shoes,Fashion,2,2397.01,0.05,Debit Card,Nagpur,Delivered,4554.32
+ORD00532,2025-05-14,CUST0140,Running Shoes,Fashion,2,2487.09,0.15,Cash on Delivery,Pune,Delivered,4228.05
+ORD00533,2025-04-07,CUST0233,Storage Organizer,Home,2,994.96,0.2,UPI,Mumbai,Cancelled,1591.94
+ORD00534,2025-01-11,CUST0030,Wireless Headphones,Electronics,1,2255.07,0,UPI,Mumbai,Delivered,2255.07
+ORD00535,2025-10-05,CUST0011,Smart Watch,Electronics,2,4851.75,0.1,Cash on Delivery,Mumbai,Returned,8733.15
+ORD00536,2025-09-24,CUST0210,Yoga Mat,Sports,1,993.49,0.15,Debit Card,Nashik,Delivered,844.47
+ORD00537,2025-11-10,CUST0243,Smart Watch,Electronics,2,5278.44,0.2,Debit Card,Nagpur,Delivered,8445.5
+ORD00538,2025-03-22,CUST0123,Yoga Mat,Sports,1,852.39,0,Credit Card,Nanded,Delivered,852.39
+ORD00539,2025-12-20,CUST0175,Table Lamp,Home,2,1322.77,0,Cash on Delivery,Thane,Delivered,2645.54
+ORD00540,2025-10-13,CUST0050,Casual T-Shirt,Fashion,3,746.5,0.1,UPI,Thane,Delivered,2015.55
+ORD00541,2025-01-21,CUST0115,Storage Organizer,Home,1,838.2,0.2,Cash on Delivery,Mumbai,Delivered,670.56
+ORD00542,2025-08-29,CUST0065,Table Lamp,Home,2,1268.25,0.2,Cash on Delivery,Mumbai,Delivered,2029.2
+ORD00543,2025-11-12,CUST0086,Smart Watch,Electronics,2,5450.75,0,Credit Card,Mumbai,Delivered,10901.5
+ORD00544,2025-02-09,CUST0030,Skincare Set,Beauty,3,1674.38,0,UPI,Aurangabad,Cancelled,5023.14
+ORD00545,2025-10-15,CUST0209,Storage Organizer,Home,2,1032.16,0,UPI,Nashik,Delivered,2064.32
+ORD00546,2025-07-30,CUST0068,Smart Watch,Electronics,1,4895.09,0.2,Debit Card,Pune,Delivered,3916.07
+ORD00547,2025-04-29,CUST0245,Casual T-Shirt,Fashion,3,799.93,0,UPI,Nashik,Delivered,2399.79
+ORD00548,2025-09-30,CUST0107,Storage Organizer,Home,1,778.25,0.2,Debit Card,Nashik,Delivered,622.6
+ORD00549,2025-10-21,CUST0027,Casual T-Shirt,Fashion,1,802.85,0.2,UPI,Mumbai,Cancelled,642.28
+ORD00550,2025-09-18,CUST0012,Wireless Headphones,Electronics,1,2482.7,0,Debit Card,Aurangabad,Returned,2482.7
+ORD00551,2025-05-10,CUST0009,Wireless Headphones,Electronics,2,2133.56,0.1,Credit Card,Aurangabad,Delivered,3840.41
+ORD00552,2025-12-15,CUST0174,Casual T-Shirt,Fashion,1,753.66,0.2,Credit Card,Nagpur,Delivered,602.93
+ORD00553,2025-03-20,CUST0086,Running Shoes,Fashion,1,2248.36,0,Debit Card,Pune,Delivered,2248.36
+ORD00554,2025-02-19,CUST0185,Running Shoes,Fashion,3,1974.84,0.1,Cash on Delivery,Pune,Delivered,5332.07
+ORD00555,2025-02-18,CUST0241,Yoga Mat,Sports,2,1051.27,0.05,Cash on Delivery,Pune,Delivered,1997.41
+ORD00556,2025-06-17,CUST0093,Wireless Headphones,Electronics,1,2460.4,0.2,Cash on Delivery,Pune,Delivered,1968.32
+ORD00557,2025-05-29,CUST0177,Storage Organizer,Home,1,769.53,0.15,UPI,Nanded,Cancelled,654.1
+ORD00558,2025-10-07,CUST0162,Wireless Headphones,Electronics,3,2135.92,0.15,Credit Card,Nashik,Delivered,5446.6
+ORD00559,2025-06-04,CUST0171,Smart Watch,Electronics,2,4409.67,0.2,Cash on Delivery,Nashik,Returned,7055.47
+ORD00560,2025-10-25,CUST0213,Yoga Mat,Sports,2,1053.99,0.15,Credit Card,Thane,Returned,1791.78
+ORD00561,2025-02-21,CUST0016,Casual T-Shirt,Fashion,2,728.75,0.1,Debit Card,Nanded,Cancelled,1311.75
+ORD00562,2025-12-28,CUST0052,Casual T-Shirt,Fashion,3,802.16,0.15,Cash on Delivery,Aurangabad,Delivered,2045.51
+ORD00563,2025-05-01,CUST0001,Table Lamp,Home,2,1419.27,0.15,Cash on Delivery,Thane,Delivered,2412.76
+ORD00564,2025-10-19,CUST0016,Yoga Mat,Sports,1,1002.08,0,UPI,Mumbai,Delivered,1002.08
+ORD00565,2025-12-07,CUST0055,Running Shoes,Fashion,3,2492.84,0.1,Credit Card,Pune,Delivered,6730.67
+ORD00566,2025-10-16,CUST0128,Skincare Set,Beauty,3,1490.4,0.2,UPI,Aurangabad,Delivered,3576.96
+ORD00567,2025-07-24,CUST0083,Yoga Mat,Sports,3,913.83,0.15,Debit Card,Nanded,Cancelled,2330.27
+ORD00568,2025-11-30,CUST0066,Wireless Headphones,Electronics,1,2426.85,0.1,Credit Card,Nagpur,Delivered,2184.16
+ORD00569,2025-01-04,CUST0102,Casual T-Shirt,Fashion,3,623.39,0,Debit Card,Nagpur,Delivered,1870.17
+ORD00570,2025-03-11,CUST0216,Storage Organizer,Home,3,782.42,0.15,UPI,Nashik,Delivered,1995.17
+ORD00571,2025-09-09,CUST0054,Casual T-Shirt,Fashion,3,635.08,0.05,Credit Card,Thane,Delivered,1809.98
+ORD00572,2025-06-25,CUST0040,Wireless Headphones,Electronics,1,2572.7,0.15,UPI,Nagpur,Delivered,2186.79
+ORD00573,2025-06-23,CUST0153,Smart Watch,Electronics,2,4911.08,0,Cash on Delivery,Nashik,Delivered,9822.16
+ORD00574,2025-01-12,CUST0230,Casual T-Shirt,Fashion,1,674.32,0,UPI,Aurangabad,Returned,674.32
+ORD00575,2025-01-30,CUST0161,Storage Organizer,Home,1,770.63,0.15,Cash on Delivery,Pune,Returned,655.04
+ORD00576,2025-11-10,CUST0125,Storage Organizer,Home,3,982.17,0,Cash on Delivery,Nanded,Delivered,2946.51
+ORD00577,2025-06-19,CUST0172,Skincare Set,Beauty,1,1669.4,0,Debit Card,Nanded,Delivered,1669.4
+ORD00578,2025-05-13,CUST0088,Storage Organizer,Home,3,951.07,0.1,Credit Card,Thane,Delivered,2567.89
+ORD00579,2025-06-25,CUST0009,Skincare Set,Beauty,3,1583.79,0.2,Credit Card,Aurangabad,Delivered,3801.1
+ORD00580,2025-10-13,CUST0190,Wireless Headphones,Electronics,2,2578.97,0,Debit Card,Thane,Delivered,5157.94
+ORD00581,2025-05-11,CUST0143,Skincare Set,Beauty,2,1517.73,0.1,Cash on Delivery,Pune,Delivered,2731.91
+ORD00582,2025-11-29,CUST0035,Running Shoes,Fashion,1,1958.45,0.1,Credit Card,Nanded,Cancelled,1762.61
+ORD00583,2025-06-06,CUST0098,Table Lamp,Home,1,1329.19,0.05,Credit Card,Nashik,Delivered,1262.73
+ORD00584,2025-11-20,CUST0153,Table Lamp,Home,2,1484.03,0.05,Credit Card,Thane,Returned,2819.66
+ORD00585,2025-06-16,CUST0234,Wireless Headphones,Electronics,2,2488.63,0.1,Cash on Delivery,Pune,Delivered,4479.53
+ORD00586,2025-06-12,CUST0234,Skincare Set,Beauty,1,1595.2,0,Debit Card,Nagpur,Delivered,1595.2
+ORD00587,2025-12-18,CUST0023,Wireless Headphones,Electronics,3,2798.41,0.05,Debit Card,Nashik,Delivered,7975.47
+ORD00588,2025-10-29,CUST0063,Skincare Set,Beauty,3,1630.64,0.15,Credit Card,Pune,Cancelled,4158.13
+ORD00589,2025-08-08,CUST0004,Running Shoes,Fashion,3,2362.38,0,Debit Card,Aurangabad,Delivered,7087.14
+ORD00590,2025-01-11,CUST0022,Skincare Set,Beauty,1,1485.68,0.2,UPI,Mumbai,Cancelled,1188.54
+ORD00591,2025-05-02,CUST0052,Skincare Set,Beauty,2,1454.81,0.05,Credit Card,Nanded,Cancelled,2764.14
+ORD00592,2025-09-04,CUST0195,Smart Watch,Electronics,3,4672.34,0,Debit Card,Nagpur,Returned,14017.02
+ORD00593,2025-08-20,CUST0152,Table Lamp,Home,1,1166.88,0.1,Credit Card,Nashik,Delivered,1050.19
+ORD00594,2025-06-07,CUST0057,Casual T-Shirt,Fashion,3,689.86,0.05,Credit Card,Nashik,Cancelled,1966.1
+ORD00595,2025-08-28,CUST0096,Storage Organizer,Home,3,823.45,0.2,Credit Card,Nagpur,Cancelled,1976.28
+ORD00596,2025-06-01,CUST0060,Table Lamp,Home,2,1365.16,0,Credit Card,Nashik,Delivered,2730.32
+ORD00597,2025-10-01,CUST0098,Running Shoes,Fashion,1,2492.18,0.05,Credit Card,Nanded,Cancelled,2367.57
+ORD00598,2025-03-17,CUST0149,Storage Organizer,Home,1,872.95,0.05,Debit Card,Nagpur,Delivered,829.3
+ORD00599,2025-09-25,CUST0168,Table Lamp,Home,2,1468.09,0.2,Credit Card,Nanded,Delivered,2348.94
+ORD00600,2025-09-24,CUST0250,Casual T-Shirt,Fashion,2,716.92,0.15,Credit Card,Pune,Delivered,1218.76
+ORD00601,2025-01-22,CUST0010,Running Shoes,Fashion,2,2033.69,0.05,Cash on Delivery,Mumbai,Delivered,3864.01
+ORD00602,2025-03-20,CUST0112,Casual T-Shirt,Fashion,2,642.1,0.2,UPI,Nashik,Delivered,1027.36
+ORD00603,2025-06-17,CUST0195,Wireless Headphones,Electronics,2,2245.39,0.2,UPI,Thane,Returned,3592.62
+ORD00604,2025-06-15,CUST0134,Wireless Headphones,Electronics,1,2845.42,0.15,Credit Card,Nanded,Cancelled,2418.61
+ORD00605,2025-12-25,CUST0209,Casual T-Shirt,Fashion,3,621.21,0.05,Credit Card,Aurangabad,Cancelled,1770.45
+ORD00606,2025-08-07,CUST0055,Yoga Mat,Sports,2,1079.75,0.15,UPI,Aurangabad,Delivered,1835.58
+ORD00607,2025-07-21,CUST0182,Yoga Mat,Sports,3,929.03,0.05,Cash on Delivery,Nashik,Cancelled,2647.74
+ORD00608,2025-04-26,CUST0219,Table Lamp,Home,3,1280.07,0.2,UPI,Thane,Cancelled,3072.17
+ORD00609,2025-03-26,CUST0186,Wireless Headphones,Electronics,2,2595.49,0.1,Cash on Delivery,Thane,Delivered,4671.88
+ORD00610,2025-06-22,CUST0076,Table Lamp,Home,1,1254.23,0,Cash on Delivery,Nagpur,Delivered,1254.23
+ORD00611,2025-07-22,CUST0205,Running Shoes,Fashion,1,1873.36,0.15,Debit Card,Nagpur,Delivered,1592.36
+ORD00612,2025-11-29,CUST0052,Table Lamp,Home,3,1346.75,0,Cash on Delivery,Mumbai,Delivered,4040.25
+ORD00613,2025-07-18,CUST0028,Yoga Mat,Sports,1,1134.42,0.05,Credit Card,Aurangabad,Delivered,1077.7
+ORD00614,2025-11-11,CUST0156,Table Lamp,Home,1,1228.08,0.15,Credit Card,Nagpur,Delivered,1043.87
+ORD00615,2025-04-09,CUST0098,Casual T-Shirt,Fashion,2,637.03,0.1,Debit Card,Aurangabad,Delivered,1146.65
+ORD00616,2025-12-18,CUST0108,Smart Watch,Electronics,1,4935.7,0.05,UPI,Nanded,Delivered,4688.91
+ORD00617,2025-06-03,CUST0127,Skincare Set,Beauty,1,1680.83,0.15,Cash on Delivery,Nashik,Returned,1428.71
+ORD00618,2025-08-16,CUST0092,Wireless Headphones,Electronics,3,2839.16,0.05,Debit Card,Thane,Delivered,8091.61
+ORD00619,2025-02-24,CUST0208,Storage Organizer,Home,3,971.3,0.15,Credit Card,Mumbai,Cancelled,2476.81
+ORD00620,2025-05-11,CUST0169,Yoga Mat,Sports,2,1122.67,0.15,Cash on Delivery,Nagpur,Delivered,1908.54
+ORD00621,2025-06-30,CUST0090,Skincare Set,Beauty,3,1305.53,0.2,UPI,Nashik,Cancelled,3133.27
+ORD00622,2025-05-27,CUST0127,Table Lamp,Home,2,1248.93,0.2,Cash on Delivery,Nanded,Delivered,1998.29
+ORD00623,2025-04-18,CUST0190,Casual T-Shirt,Fashion,1,727.09,0.2,Credit Card,Mumbai,Delivered,581.67
+ORD00624,2025-07-10,CUST0003,Skincare Set,Beauty,1,1523.42,0.15,Debit Card,Mumbai,Delivered,1294.91
+ORD00625,2025-05-02,CUST0082,Casual T-Shirt,Fashion,2,682.21,0.05,Credit Card,Thane,Delivered,1296.2
+ORD00626,2025-11-07,CUST0015,Storage Organizer,Home,3,986.73,0.1,Debit Card,Thane,Delivered,2664.17
+ORD00627,2025-01-05,CUST0095,Smart Watch,Electronics,3,4952.69,0.15,Debit Card,Nagpur,Delivered,12629.36
+ORD00628,2025-01-23,CUST0228,Smart Watch,Electronics,2,5066.77,0.1,Debit Card,Aurangabad,Delivered,9120.19
+ORD00629,2025-10-06,CUST0172,Storage Organizer,Home,3,848.4,0,Debit Card,Nanded,Delivered,2545.2
+ORD00630,2025-08-31,CUST0030,Casual T-Shirt,Fashion,3,603.77,0.05,Debit Card,Nashik,Returned,1720.74
+ORD00631,2025-03-06,CUST0095,Storage Organizer,Home,1,819.21,0,Credit Card,Nagpur,Returned,819.21
+ORD00632,2025-10-22,CUST0057,Skincare Set,Beauty,1,1493.04,0.05,Cash on Delivery,Aurangabad,Delivered,1418.39
+ORD00633,2025-01-20,CUST0028,Table Lamp,Home,2,1135.1,0,Cash on Delivery,Mumbai,Returned,2270.2
+ORD00634,2025-03-05,CUST0048,Storage Organizer,Home,2,900.45,0,Cash on Delivery,Nanded,Returned,1800.9
+ORD00635,2025-10-25,CUST0245,Running Shoes,Fashion,1,2349.33,0.15,Debit Card,Aurangabad,Cancelled,1996.93
+ORD00636,2025-08-23,CUST0164,Running Shoes,Fashion,1,2455.77,0.05,Credit Card,Thane,Delivered,2332.98
+ORD00637,2025-07-06,CUST0138,Wireless Headphones,Electronics,1,2619.31,0.2,Cash on Delivery,Thane,Delivered,2095.45
+ORD00638,2025-07-02,CUST0080,Smart Watch,Electronics,3,4299.75,0,Debit Card,Nashik,Returned,12899.25
+ORD00639,2025-08-11,CUST0216,Storage Organizer,Home,3,850.82,0.15,UPI,Mumbai,Delivered,2169.59
+ORD00640,2025-10-08,CUST0249,Storage Organizer,Home,3,840.5,0.05,Cash on Delivery,Thane,Cancelled,2395.42
+ORD00641,2025-05-04,CUST0060,Running Shoes,Fashion,2,2516.94,0.15,UPI,Aurangabad,Cancelled,4278.8
+ORD00642,2025-08-05,CUST0011,Skincare Set,Beauty,2,1467,0.15,Cash on Delivery,Aurangabad,Delivered,2493.9
+ORD00643,2025-04-25,CUST0046,Yoga Mat,Sports,1,1046.68,0.15,Debit Card,Pune,Delivered,889.68
+ORD00644,2025-04-17,CUST0180,Smart Watch,Electronics,1,4605.6,0.2,Debit Card,Thane,Cancelled,3684.48
+ORD00645,2025-10-28,CUST0233,Smart Watch,Electronics,3,4304.69,0.05,Credit Card,Mumbai,Returned,12268.37
+ORD00646,2025-08-02,CUST0049,Casual T-Shirt,Fashion,2,793.39,0.2,Debit Card,Mumbai,Cancelled,1269.42
+ORD00647,2025-04-01,CUST0220,Skincare Set,Beauty,3,1479.1,0.2,Debit Card,Mumbai,Returned,3549.84
+ORD00648,2025-04-06,CUST0147,Table Lamp,Home,2,1416.9,0,Credit Card,Nanded,Delivered,2833.8
+ORD00649,2025-03-12,CUST0227,Smart Watch,Electronics,1,5552.37,0.1,UPI,Nanded,Cancelled,4997.13
+ORD00650,2025-04-21,CUST0008,Yoga Mat,Sports,2,1099.92,0,Debit Card,Thane,Delivered,2199.84
+ORD00651,2025-04-30,CUST0234,Wireless Headphones,Electronics,1,2189.19,0.05,UPI,Mumbai,Delivered,2079.73
+ORD00652,2025-07-27,CUST0089,Table Lamp,Home,1,1157.74,0.1,Debit Card,Pune,Delivered,1041.97
+ORD00653,2025-09-12,CUST0094,Skincare Set,Beauty,3,1683.72,0,UPI,Pune,Returned,5051.16
+ORD00654,2025-11-28,CUST0066,Table Lamp,Home,1,1197.96,0.2,Credit Card,Nagpur,Returned,958.37
+ORD00655,2025-05-11,CUST0102,Table Lamp,Home,1,1400.46,0.05,Cash on Delivery,Pune,Cancelled,1330.44
+ORD00656,2025-05-06,CUST0201,Skincare Set,Beauty,3,1430.05,0,Credit Card,Nagpur,Delivered,4290.15
+ORD00657,2025-10-10,CUST0076,Running Shoes,Fashion,2,2122.61,0.05,Credit Card,Nanded,Returned,4032.96
+ORD00658,2025-12-12,CUST0233,Skincare Set,Beauty,1,1371.2,0,Cash on Delivery,Nashik,Delivered,1371.2
+ORD00659,2025-07-08,CUST0064,Casual T-Shirt,Fashion,3,608.75,0.15,Debit Card,Mumbai,Delivered,1552.31
+ORD00660,2025-09-22,CUST0166,Table Lamp,Home,1,1408.96,0.2,Credit Card,Nagpur,Delivered,1127.17
+ORD00661,2025-05-08,CUST0199,Yoga Mat,Sports,3,1062.56,0.15,Credit Card,Aurangabad,Delivered,2709.53
+ORD00662,2025-04-28,CUST0057,Yoga Mat,Sports,3,1044.72,0.2,UPI,Pune,Delivered,2507.33
+ORD00663,2025-03-30,CUST0088,Yoga Mat,Sports,2,849.97,0.1,Cash on Delivery,Pune,Delivered,1529.95
+ORD00664,2025-03-01,CUST0037,Running Shoes,Fashion,3,2089.05,0.15,UPI,Mumbai,Returned,5327.08
+ORD00665,2025-08-11,CUST0142,Storage Organizer,Home,1,803.44,0.05,Debit Card,Mumbai,Delivered,763.27
+ORD00666,2025-12-15,CUST0165,Storage Organizer,Home,1,845.17,0.15,Debit Card,Pune,Delivered,718.39
+ORD00667,2025-12-28,CUST0057,Skincare Set,Beauty,1,1606.46,0.05,UPI,Pune,Returned,1526.14
+ORD00668,2025-08-19,CUST0026,Smart Watch,Electronics,1,4949.15,0.05,Credit Card,Pune,Returned,4701.69
+ORD00669,2025-11-02,CUST0029,Yoga Mat,Sports,2,867.63,0.15,Cash on Delivery,Nagpur,Delivered,1474.97
+ORD00670,2025-02-25,CUST0066,Yoga Mat,Sports,1,929.22,0.15,Cash on Delivery,Nashik,Returned,789.84
+ORD00671,2025-07-11,CUST0101,Casual T-Shirt,Fashion,2,763.85,0.05,Cash on Delivery,Mumbai,Delivered,1451.32
+ORD00672,2025-05-25,CUST0031,Running Shoes,Fashion,3,1890.93,0.05,Debit Card,Aurangabad,Cancelled,5389.15
+ORD00673,2025-02-11,CUST0152,Smart Watch,Electronics,2,5194.97,0.2,UPI,Pune,Returned,8311.95
+ORD00674,2025-12-09,CUST0153,Smart Watch,Electronics,1,5204.31,0,Credit Card,Aurangabad,Delivered,5204.31
+ORD00675,2025-09-27,CUST0080,Storage Organizer,Home,3,885.25,0.1,UPI,Nashik,Delivered,2390.18
+ORD00676,2025-03-28,CUST0005,Yoga Mat,Sports,3,880.79,0.2,Cash on Delivery,Nanded,Cancelled,2113.9
+ORD00677,2025-12-26,CUST0176,Storage Organizer,Home,2,982.99,0,Debit Card,Nashik,Cancelled,1965.98
+ORD00678,2025-11-15,CUST0233,Running Shoes,Fashion,1,1932.69,0.2,Cash on Delivery,Thane,Cancelled,1546.15
+ORD00679,2025-03-14,CUST0073,Running Shoes,Fashion,3,2015.28,0.05,Credit Card,Nagpur,Returned,5743.55
+ORD00680,2025-04-01,CUST0135,Storage Organizer,Home,2,863.29,0.05,Credit Card,Nanded,Delivered,1640.25
+ORD00681,2025-06-05,CUST0171,Casual T-Shirt,Fashion,3,777.2,0.2,Credit Card,Nagpur,Delivered,1865.28
+ORD00682,2025-02-18,CUST0145,Skincare Set,Beauty,1,1593.79,0.2,Cash on Delivery,Nashik,Delivered,1275.03
+ORD00683,2025-11-01,CUST0247,Yoga Mat,Sports,1,921.04,0.05,UPI,Pune,Returned,874.99
+ORD00684,2025-08-12,CUST0064,Running Shoes,Fashion,3,2404.93,0.15,Credit Card,Nanded,Cancelled,6132.57
+ORD00685,2025-08-22,CUST0165,Smart Watch,Electronics,1,5596.1,0.2,UPI,Aurangabad,Delivered,4476.88
+ORD00686,2025-11-04,CUST0150,Table Lamp,Home,1,1197.78,0.2,Cash on Delivery,Nashik,Delivered,958.22
+ORD00687,2025-07-12,CUST0072,Skincare Set,Beauty,1,1528.54,0.1,Credit Card,Thane,Delivered,1375.69
+ORD00688,2025-01-05,CUST0232,Skincare Set,Beauty,3,1621.18,0,Credit Card,Pune,Delivered,4863.54
+ORD00689,2025-07-30,CUST0206,Storage Organizer,Home,3,1026.41,0.05,UPI,Nashik,Cancelled,2925.27
+ORD00690,2025-12-09,CUST0055,Yoga Mat,Sports,2,1039.75,0.05,Credit Card,Nagpur,Returned,1975.52
+ORD00691,2025-07-01,CUST0155,Table Lamp,Home,1,1342.98,0.1,Cash on Delivery,Nashik,Returned,1208.68
+ORD00692,2025-07-13,CUST0212,Casual T-Shirt,Fashion,2,707.8,0.1,Cash on Delivery,Nagpur,Delivered,1274.04
+ORD00693,2025-03-18,CUST0214,Table Lamp,Home,2,1107.77,0.2,UPI,Thane,Returned,1772.43
+ORD00694,2025-02-05,CUST0109,Yoga Mat,Sports,3,1031.46,0.05,UPI,Thane,Delivered,2939.66
+ORD00695,2025-09-27,CUST0013,Casual T-Shirt,Fashion,1,727.1,0.1,Credit Card,Nagpur,Delivered,654.39
+ORD00696,2025-03-18,CUST0242,Casual T-Shirt,Fashion,3,618.6,0.15,Cash on Delivery,Thane,Delivered,1577.43
+ORD00697,2025-12-04,CUST0017,Casual T-Shirt,Fashion,1,681.71,0.05,Credit Card,Nanded,Delivered,647.62
+ORD00698,2025-06-21,CUST0020,Storage Organizer,Home,1,873.86,0.2,Cash on Delivery,Nagpur,Delivered,699.09
+ORD00699,2025-12-06,CUST0194,Storage Organizer,Home,2,930.95,0.15,Cash on Delivery,Pune,Delivered,1582.62
+ORD00700,2025-08-24,CUST0185,Casual T-Shirt,Fashion,3,761.36,0.2,Cash on Delivery,Nagpur,Delivered,1827.26
+ORD00701,2025-07-22,CUST0212,Wireless Headphones,Electronics,2,2170.4,0.15,Debit Card,Nanded,Delivered,3689.68
+ORD00702,2025-03-24,CUST0247,Skincare Set,Beauty,2,1365.1,0.2,Credit Card,Aurangabad,Cancelled,2184.16
+ORD00703,2025-07-13,CUST0193,Table Lamp,Home,2,1173.92,0.05,Cash on Delivery,Aurangabad,Delivered,2230.45
+ORD00704,2025-04-08,CUST0008,Casual T-Shirt,Fashion,2,740.19,0.15,Cash on Delivery,Nanded,Cancelled,1258.32
+ORD00705,2025-12-16,CUST0124,Skincare Set,Beauty,3,1373.09,0,Cash on Delivery,Nanded,Delivered,4119.27
+ORD00706,2025-03-24,CUST0052,Table Lamp,Home,1,1381.82,0.15,Cash on Delivery,Nanded,Delivered,1174.55
+ORD00707,2025-01-02,CUST0185,Table Lamp,Home,1,1204.17,0,UPI,Thane,Cancelled,1204.17
+ORD00708,2025-03-11,CUST0146,Table Lamp,Home,3,1258.18,0.2,Credit Card,Aurangabad,Returned,3019.63
+ORD00709,2025-02-23,CUST0136,Wireless Headphones,Electronics,2,2493.37,0.05,Credit Card,Thane,Returned,4737.4
+ORD00710,2025-04-12,CUST0078,Wireless Headphones,Electronics,3,2845.19,0.15,UPI,Nashik,Delivered,7255.23
+ORD00711,2025-05-26,CUST0159,Wireless Headphones,Electronics,3,2664.06,0,Debit Card,Aurangabad,Delivered,7992.18
+ORD00712,2025-10-10,CUST0189,Casual T-Shirt,Fashion,2,652.24,0,Debit Card,Aurangabad,Returned,1304.48
+ORD00713,2025-05-12,CUST0021,Smart Watch,Electronics,2,5542.02,0.05,UPI,Aurangabad,Returned,10529.84
+ORD00714,2025-10-12,CUST0075,Yoga Mat,Sports,1,943.32,0.1,Debit Card,Mumbai,Delivered,848.99
+ORD00715,2025-09-17,CUST0098,Casual T-Shirt,Fashion,2,633.97,0.15,UPI,Nanded,Delivered,1077.75
+ORD00716,2025-04-14,CUST0155,Yoga Mat,Sports,3,938.18,0.05,Credit Card,Aurangabad,Returned,2673.81
+ORD00717,2025-08-01,CUST0188,Yoga Mat,Sports,3,957.84,0.05,UPI,Nanded,Returned,2729.84
+ORD00718,2025-10-05,CUST0161,Wireless Headphones,Electronics,1,2253.79,0,Credit Card,Pune,Cancelled,2253.79
+ORD00719,2025-10-05,CUST0154,Smart Watch,Electronics,1,5243.31,0.15,Cash on Delivery,Mumbai,Delivered,4456.81
+ORD00720,2025-04-18,CUST0167,Smart Watch,Electronics,3,4560.23,0.15,UPI,Nanded,Delivered,11628.59
+ORD00721,2025-06-06,CUST0094,Casual T-Shirt,Fashion,1,605.94,0.1,UPI,Thane,Delivered,545.35
+ORD00722,2025-07-21,CUST0106,Yoga Mat,Sports,2,1144.14,0.2,Credit Card,Nagpur,Cancelled,1830.62
+ORD00723,2025-06-26,CUST0100,Smart Watch,Electronics,3,5401.41,0.15,Credit Card,Nashik,Delivered,13773.6
+ORD00724,2025-10-01,CUST0145,Skincare Set,Beauty,3,1499.66,0.15,UPI,Nagpur,Delivered,3824.13
+ORD00725,2025-05-18,CUST0116,Running Shoes,Fashion,2,2049.28,0.15,Debit Card,Pune,Cancelled,3483.78
+ORD00726,2025-09-05,CUST0167,Table Lamp,Home,3,1275.1,0.15,Cash on Delivery,Nanded,Returned,3251.5
+ORD00727,2025-12-03,CUST0133,Skincare Set,Beauty,1,1602.62,0.1,Cash on Delivery,Pune,Delivered,1442.36
+ORD00728,2025-10-01,CUST0229,Skincare Set,Beauty,1,1541.02,0.1,UPI,Aurangabad,Delivered,1386.92
+ORD00729,2025-10-10,CUST0239,Yoga Mat,Sports,3,944.3,0.1,UPI,Nashik,Delivered,2549.61
+ORD00730,2025-08-21,CUST0075,Smart Watch,Electronics,1,4261.57,0.15,Credit Card,Aurangabad,Delivered,3622.33
+ORD00731,2025-04-11,CUST0173,Casual T-Shirt,Fashion,1,671.3,0.05,Cash on Delivery,Aurangabad,Delivered,637.73
+ORD00732,2025-07-20,CUST0170,Storage Organizer,Home,1,1033.67,0,UPI,Nagpur,Cancelled,1033.67
+ORD00733,2025-02-02,CUST0004,Casual T-Shirt,Fashion,2,613.62,0.2,Debit Card,Nanded,Cancelled,981.79
+ORD00734,2025-08-30,CUST0082,Skincare Set,Beauty,1,1369.55,0.15,UPI,Aurangabad,Delivered,1164.12
+ORD00735,2025-10-24,CUST0118,Running Shoes,Fashion,1,2336.02,0.2,UPI,Pune,Returned,1868.82
+ORD00736,2025-05-07,CUST0006,Skincare Set,Beauty,2,1514.36,0.1,Credit Card,Mumbai,Returned,2725.85
+ORD00737,2025-05-09,CUST0184,Smart Watch,Electronics,3,4771.44,0,Credit Card,Aurangabad,Delivered,14314.32
+ORD00738,2025-09-13,CUST0039,Yoga Mat,Sports,2,923.95,0,Cash on Delivery,Mumbai,Delivered,1847.9
+ORD00739,2025-06-29,CUST0072,Skincare Set,Beauty,2,1292.43,0.05,Credit Card,Mumbai,Returned,2455.62
+ORD00740,2025-09-29,CUST0167,Storage Organizer,Home,3,977.6,0.15,Credit Card,Mumbai,Delivered,2492.88
+ORD00741,2025-10-02,CUST0006,Smart Watch,Electronics,3,5000.06,0,UPI,Nashik,Cancelled,15000.18
+ORD00742,2025-02-13,CUST0049,Skincare Set,Beauty,2,1675.42,0.2,Debit Card,Nagpur,Delivered,2680.67
+ORD00743,2025-08-01,CUST0126,Table Lamp,Home,1,1298.3,0,UPI,Pune,Delivered,1298.3
+ORD00744,2025-02-03,CUST0180,Yoga Mat,Sports,3,975.23,0.2,Cash on Delivery,Nanded,Delivered,2340.55
+ORD00745,2025-10-22,CUST0018,Wireless Headphones,Electronics,1,2300.7,0.15,Credit Card,Nashik,Returned,1955.59
+ORD00746,2025-12-04,CUST0029,Smart Watch,Electronics,2,5413.06,0.2,Debit Card,Aurangabad,Delivered,8660.9
+ORD00747,2025-09-15,CUST0098,Storage Organizer,Home,3,892.92,0.05,Debit Card,Thane,Returned,2544.82
+ORD00748,2025-01-07,CUST0238,Casual T-Shirt,Fashion,2,797.21,0,Cash on Delivery,Pune,Delivered,1594.42
+ORD00749,2025-08-14,CUST0037,Yoga Mat,Sports,2,950.47,0,Credit Card,Thane,Delivered,1900.94
+ORD00750,2025-06-26,CUST0105,Storage Organizer,Home,1,894.21,0.2,Credit Card,Nanded,Delivered,715.37
+ORD00751,2025-12-20,CUST0171,Storage Organizer,Home,2,897.12,0,Cash on Delivery,Thane,Returned,1794.24
+ORD00752,2025-11-07,CUST0207,Skincare Set,Beauty,1,1407.96,0.15,Debit Card,Nagpur,Delivered,1196.77
+ORD00753,2025-02-07,CUST0165,Skincare Set,Beauty,2,1481.23,0.2,UPI,Nanded,Delivered,2369.97
+ORD00754,2025-01-15,CUST0050,Storage Organizer,Home,1,777.62,0.1,Cash on Delivery,Aurangabad,Delivered,699.86
+ORD00755,2025-03-19,CUST0213,Casual T-Shirt,Fashion,1,653.65,0,Debit Card,Mumbai,Delivered,653.65
+ORD00756,2025-10-15,CUST0185,Skincare Set,Beauty,3,1657.81,0.1,Debit Card,Mumbai,Delivered,4476.09
+ORD00757,2025-03-18,CUST0166,Wireless Headphones,Electronics,1,2705.47,0.15,Debit Card,Pune,Delivered,2299.65
+ORD00758,2025-07-09,CUST0058,Casual T-Shirt,Fashion,1,763.96,0.2,UPI,Nashik,Delivered,611.17
+ORD00759,2025-07-02,CUST0105,Storage Organizer,Home,3,832.25,0.1,Cash on Delivery,Nanded,Delivered,2247.08
+ORD00760,2025-12-21,CUST0059,Smart Watch,Electronics,1,4678.78,0.2,UPI,Nanded,Delivered,3743.02
+ORD00761,2025-07-05,CUST0074,Skincare Set,Beauty,1,1598.45,0.1,UPI,Thane,Cancelled,1438.61
+ORD00762,2025-05-26,CUST0206,Casual T-Shirt,Fashion,1,736.58,0.15,Credit Card,Pune,Delivered,626.09
+ORD00763,2025-05-17,CUST0221,Yoga Mat,Sports,1,1019.11,0.2,Credit Card,Nashik,Delivered,815.29
+ORD00764,2025-11-08,CUST0077,Skincare Set,Beauty,3,1367.04,0.1,Credit Card,Pune,Returned,3691.01
+ORD00765,2025-09-12,CUST0211,Skincare Set,Beauty,2,1404.8,0.1,Credit Card,Nagpur,Delivered,2528.64
+ORD00766,2025-09-01,CUST0248,Table Lamp,Home,3,1225.21,0.2,Cash on Delivery,Pune,Delivered,2940.5
+ORD00767,2025-07-05,CUST0024,Casual T-Shirt,Fashion,2,699.07,0.2,UPI,Thane,Delivered,1118.51
+ORD00768,2025-06-25,CUST0226,Yoga Mat,Sports,1,870.95,0,Cash on Delivery,Thane,Delivered,870.95
+ORD00769,2025-11-11,CUST0095,Table Lamp,Home,2,1325.03,0,UPI,Nanded,Cancelled,2650.06
+ORD00770,2025-02-10,CUST0231,Table Lamp,Home,3,1389.62,0.05,Debit Card,Nagpur,Delivered,3960.42
+ORD00771,2025-10-15,CUST0034,Wireless Headphones,Electronics,2,2752.18,0,Credit Card,Mumbai,Delivered,5504.36
+ORD00772,2025-08-16,CUST0071,Smart Watch,Electronics,1,4990.6,0.1,Debit Card,Nanded,Returned,4491.54
+ORD00773,2025-07-30,CUST0041,Casual T-Shirt,Fashion,2,690.56,0.2,UPI,Nashik,Cancelled,1104.9
+ORD00774,2025-06-25,CUST0209,Skincare Set,Beauty,1,1442.51,0,UPI,Nashik,Delivered,1442.51
+ORD00775,2025-12-11,CUST0014,Smart Watch,Electronics,2,4894.44,0.15,Debit Card,Pune,Returned,8320.55
+ORD00776,2025-10-31,CUST0233,Casual T-Shirt,Fashion,3,689.34,0.1,Cash on Delivery,Thane,Delivered,1861.22
+ORD00777,2025-02-27,CUST0075,Smart Watch,Electronics,1,5516.91,0.05,Cash on Delivery,Nashik,Delivered,5241.06
+ORD00778,2025-04-06,CUST0150,Casual T-Shirt,Fashion,3,723.34,0.2,Cash on Delivery,Nanded,Delivered,1736.02
+ORD00779,2025-04-06,CUST0013,Smart Watch,Electronics,3,4581.21,0.15,Cash on Delivery,Thane,Cancelled,11682.09
+ORD00780,2025-11-22,CUST0003,Table Lamp,Home,1,1188.97,0.15,UPI,Aurangabad,Delivered,1010.62
+ORD00781,2025-08-30,CUST0075,Table Lamp,Home,2,1322.92,0.1,Cash on Delivery,Nashik,Delivered,2381.26
+ORD00782,2025-02-08,CUST0212,Skincare Set,Beauty,3,1387.61,0.2,Cash on Delivery,Pune,Delivered,3330.26
+ORD00783,2025-01-07,CUST0217,Storage Organizer,Home,1,851.87,0.15,Credit Card,Nanded,Returned,724.09
+ORD00784,2025-03-22,CUST0181,Casual T-Shirt,Fashion,2,793.65,0.1,UPI,Thane,Cancelled,1428.57
+ORD00785,2025-06-13,CUST0143,Smart Watch,Electronics,1,5693.59,0.05,Debit Card,Nashik,Delivered,5408.91
+ORD00786,2025-03-01,CUST0084,Running Shoes,Fashion,2,2207.42,0,Credit Card,Nanded,Delivered,4414.84
+ORD00787,2025-08-13,CUST0141,Casual T-Shirt,Fashion,3,800.69,0.05,Cash on Delivery,Nashik,Delivered,2281.97
+ORD00788,2025-03-12,CUST0244,Running Shoes,Fashion,3,2070.46,0.2,UPI,Aurangabad,Returned,4969.1
+ORD00789,2025-05-24,CUST0240,Table Lamp,Home,2,1490.58,0.2,Credit Card,Thane,Delivered,2384.93
+ORD00790,2025-11-01,CUST0207,Table Lamp,Home,1,1310.05,0.1,Debit Card,Nanded,Delivered,1179.05
+ORD00791,2025-08-24,CUST0229,Storage Organizer,Home,1,896.03,0.2,Cash on Delivery,Thane,Delivered,716.82
+ORD00792,2025-06-17,CUST0048,Smart Watch,Electronics,2,4974.88,0,UPI,Nashik,Delivered,9949.76
+ORD00793,2025-01-23,CUST0212,Casual T-Shirt,Fashion,2,794.89,0,Credit Card,Thane,Cancelled,1589.78
+ORD00794,2025-09-16,CUST0197,Skincare Set,Beauty,3,1447.08,0.05,Debit Card,Nashik,Returned,4124.18
+ORD00795,2025-04-10,CUST0020,Skincare Set,Beauty,1,1442.24,0,UPI,Mumbai,Returned,1442.24
+ORD00796,2025-09-12,CUST0070,Running Shoes,Fashion,2,2244.26,0.15,UPI,Aurangabad,Delivered,3815.24
+ORD00797,2025-06-16,CUST0128,Storage Organizer,Home,3,897.17,0.2,Credit Card,Mumbai,Delivered,2153.21
+ORD00798,2025-09-18,CUST0150,Wireless Headphones,Electronics,3,2238.26,0.2,Debit Card,Thane,Returned,5371.82
+ORD00799,2025-09-15,CUST0074,Smart Watch,Electronics,3,4984.29,0.15,Credit Card,Pune,Delivered,12709.94
+ORD00800,2025-06-02,CUST0249,Casual T-Shirt,Fashion,3,616.01,0.15,Cash on Delivery,Aurangabad,Delivered,1570.83
+ORD00801,2025-02-14,CUST0169,Running Shoes,Fashion,3,2119.92,0.15,Credit Card,Thane,Delivered,5405.8
+ORD00802,2025-09-26,CUST0033,Smart Watch,Electronics,1,5053.87,0.2,Credit Card,Pune,Delivered,4043.1
+ORD00803,2025-09-05,CUST0195,Table Lamp,Home,3,1401.39,0.05,Cash on Delivery,Nashik,Delivered,3993.96
+ORD00804,2025-09-12,CUST0053,Running Shoes,Fashion,2,2014.37,0,Cash on Delivery,Thane,Delivered,4028.74
+ORD00805,2025-09-19,CUST0111,Casual T-Shirt,Fashion,3,635.34,0,Credit Card,Pune,Delivered,1906.02
+ORD00806,2025-03-20,CUST0219,Storage Organizer,Home,3,773.61,0.15,Credit Card,Nashik,Delivered,1972.71
+ORD00807,2025-02-13,CUST0010,Smart Watch,Electronics,1,5327.64,0,UPI,Mumbai,Delivered,5327.64
+ORD00808,2025-01-11,CUST0228,Casual T-Shirt,Fashion,2,761.44,0.1,Debit Card,Mumbai,Cancelled,1370.59
+ORD00809,2025-05-21,CUST0033,Table Lamp,Home,2,1492.65,0.2,UPI,Nanded,Delivered,2388.24
+ORD00810,2025-07-03,CUST0240,Storage Organizer,Home,2,964.91,0.15,Cash on Delivery,Pune,Delivered,1640.35
+ORD00811,2025-07-14,CUST0066,Casual T-Shirt,Fashion,2,619.02,0.1,Cash on Delivery,Aurangabad,Delivered,1114.24
+ORD00812,2025-08-16,CUST0211,Yoga Mat,Sports,3,984.74,0.05,Debit Card,Mumbai,Cancelled,2806.51
+ORD00813,2025-06-17,CUST0152,Skincare Set,Beauty,2,1486.67,0.05,Debit Card,Thane,Delivered,2824.67
+ORD00814,2025-12-24,CUST0182,Casual T-Shirt,Fashion,2,637.74,0.1,Debit Card,Nagpur,Delivered,1147.93
+ORD00815,2025-09-20,CUST0154,Table Lamp,Home,1,1204.24,0,UPI,Pune,Cancelled,1204.24
+ORD00816,2025-11-06,CUST0048,Yoga Mat,Sports,3,952.19,0.1,Debit Card,Nagpur,Returned,2570.91
+ORD00817,2025-05-24,CUST0052,Casual T-Shirt,Fashion,3,656.08,0,UPI,Nagpur,Delivered,1968.24
+ORD00818,2025-03-15,CUST0192,Table Lamp,Home,3,1471.71,0.1,UPI,Nashik,Returned,3973.62
+ORD00819,2025-11-01,CUST0112,Smart Watch,Electronics,2,5412.6,0.2,UPI,Nashik,Returned,8660.16
+ORD00820,2025-08-28,CUST0175,Skincare Set,Beauty,2,1310.69,0.15,Cash on Delivery,Nanded,Delivered,2228.17
+ORD00821,2025-12-11,CUST0076,Casual T-Shirt,Fashion,1,719.97,0,UPI,Thane,Delivered,719.97
+ORD00822,2025-08-11,CUST0136,Skincare Set,Beauty,3,1517.8,0.2,Debit Card,Nagpur,Returned,3642.72
+ORD00823,2025-12-20,CUST0202,Casual T-Shirt,Fashion,1,606.04,0.2,UPI,Aurangabad,Delivered,484.83
+ORD00824,2025-03-08,CUST0012,Running Shoes,Fashion,3,2027.2,0.15,Cash on Delivery,Thane,Delivered,5169.36
+ORD00825,2025-12-11,CUST0018,Smart Watch,Electronics,1,5460.4,0.15,Cash on Delivery,Pune,Delivered,4641.34
+ORD00826,2025-07-14,CUST0244,Casual T-Shirt,Fashion,1,694.78,0.1,Credit Card,Nashik,Delivered,625.3
+ORD00827,2025-09-21,CUST0209,Smart Watch,Electronics,1,5034.96,0,Credit Card,Pune,Cancelled,5034.96
+ORD00828,2025-11-15,CUST0128,Yoga Mat,Sports,2,924.25,0.05,Credit Card,Mumbai,Cancelled,1756.07
+ORD00829,2025-04-12,CUST0037,Wireless Headphones,Electronics,2,2305.96,0.05,UPI,Nashik,Delivered,4381.32
+ORD00830,2025-07-15,CUST0161,Smart Watch,Electronics,2,4296.89,0.2,Cash on Delivery,Thane,Cancelled,6875.02
+ORD00831,2025-06-14,CUST0205,Yoga Mat,Sports,1,980.6,0.2,UPI,Nanded,Delivered,784.48
+ORD00832,2025-10-14,CUST0036,Casual T-Shirt,Fashion,3,738.1,0.15,Cash on Delivery,Nagpur,Delivered,1882.16
+ORD00833,2025-11-06,CUST0019,Storage Organizer,Home,3,830.47,0.1,Debit Card,Mumbai,Cancelled,2242.27
+ORD00834,2025-05-10,CUST0131,Table Lamp,Home,2,1465.57,0.2,UPI,Mumbai,Delivered,2344.91
+ORD00835,2025-02-26,CUST0014,Yoga Mat,Sports,3,851.75,0,Credit Card,Pune,Delivered,2555.25
+ORD00836,2025-12-23,CUST0250,Skincare Set,Beauty,1,1364.17,0.1,Cash on Delivery,Pune,Cancelled,1227.75
+ORD00837,2025-08-10,CUST0199,Running Shoes,Fashion,3,2357.75,0.05,UPI,Thane,Delivered,6719.59
+ORD00838,2025-12-08,CUST0090,Table Lamp,Home,1,1354.37,0.15,Credit Card,Nagpur,Returned,1151.21
+ORD00839,2025-03-16,CUST0193,Casual T-Shirt,Fashion,3,781.97,0.15,Debit Card,Nashik,Delivered,1994.02
+ORD00840,2025-02-04,CUST0047,Yoga Mat,Sports,1,1040.62,0.15,Debit Card,Nashik,Delivered,884.53
+ORD00841,2025-01-13,CUST0158,Smart Watch,Electronics,1,4921.99,0.05,Cash on Delivery,Nashik,Delivered,4675.89
+ORD00842,2025-05-18,CUST0012,Skincare Set,Beauty,1,1481.92,0.05,Credit Card,Mumbai,Returned,1407.82
+ORD00843,2025-05-17,CUST0188,Yoga Mat,Sports,3,982.24,0.15,Debit Card,Nanded,Delivered,2504.71
+ORD00844,2025-07-27,CUST0185,Smart Watch,Electronics,2,4392.51,0,Cash on Delivery,Mumbai,Returned,8785.02
+ORD00845,2025-08-02,CUST0108,Yoga Mat,Sports,3,913.56,0,UPI,Nanded,Delivered,2740.68
+ORD00846,2025-09-21,CUST0188,Storage Organizer,Home,3,956.78,0.2,Debit Card,Nagpur,Returned,2296.27
+ORD00847,2025-11-07,CUST0115,Wireless Headphones,Electronics,2,2283.99,0.2,Cash on Delivery,Nashik,Delivered,3654.38
+ORD00848,2025-01-21,CUST0145,Table Lamp,Home,2,1460.88,0.2,Debit Card,Pune,Returned,2337.41
+ORD00849,2025-12-11,CUST0219,Wireless Headphones,Electronics,3,2229.96,0.05,Credit Card,Pune,Delivered,6355.39
+ORD00850,2025-12-12,CUST0142,Yoga Mat,Sports,1,1089.59,0.05,UPI,Thane,Cancelled,1035.11
+ORD00851,2025-03-19,CUST0187,Wireless Headphones,Electronics,2,2602.75,0.15,Debit Card,Nagpur,Delivered,4424.68
+ORD00852,2025-01-03,CUST0024,Smart Watch,Electronics,2,5630.1,0.2,Debit Card,Thane,Delivered,9008.16
+ORD00853,2025-03-16,CUST0025,Skincare Set,Beauty,2,1490.91,0.1,Credit Card,Mumbai,Delivered,2683.64
+ORD00854,2025-08-05,CUST0216,Casual T-Shirt,Fashion,2,790.89,0.15,Credit Card,Nashik,Returned,1344.51
+ORD00855,2025-07-19,CUST0113,Storage Organizer,Home,1,1007.03,0.1,Debit Card,Aurangabad,Delivered,906.33
+ORD00856,2025-07-06,CUST0026,Skincare Set,Beauty,3,1441.86,0.15,Credit Card,Nashik,Delivered,3676.74
+ORD00857,2025-03-29,CUST0034,Casual T-Shirt,Fashion,2,700.54,0.05,Credit Card,Aurangabad,Delivered,1331.03
+ORD00858,2025-11-11,CUST0200,Casual T-Shirt,Fashion,2,743.33,0.05,Credit Card,Aurangabad,Delivered,1412.33
+ORD00859,2025-03-09,CUST0134,Smart Watch,Electronics,3,4746.69,0,Cash on Delivery,Nagpur,Returned,14240.07
+ORD00860,2025-10-22,CUST0047,Yoga Mat,Sports,3,979.02,0.15,Cash on Delivery,Nagpur,Delivered,2496.5
+ORD00861,2025-11-26,CUST0208,Casual T-Shirt,Fashion,2,758.39,0.2,Cash on Delivery,Nanded,Cancelled,1213.42
+ORD00862,2025-02-21,CUST0129,Storage Organizer,Home,1,1002.89,0,Cash on Delivery,Aurangabad,Delivered,1002.89
+ORD00863,2025-09-27,CUST0120,Smart Watch,Electronics,3,5651.47,0.05,Credit Card,Thane,Cancelled,16106.69
+ORD00864,2025-02-10,CUST0176,Yoga Mat,Sports,1,891.93,0.2,Cash on Delivery,Mumbai,Delivered,713.54
+ORD00865,2025-11-02,CUST0058,Running Shoes,Fashion,2,2248.39,0,Cash on Delivery,Pune,Delivered,4496.78
+ORD00866,2025-04-09,CUST0250,Yoga Mat,Sports,2,867.56,0,Debit Card,Aurangabad,Delivered,1735.12
+ORD00867,2025-05-30,CUST0029,Casual T-Shirt,Fashion,1,771.71,0,UPI,Pune,Delivered,771.71
+ORD00868,2025-08-12,CUST0239,Table Lamp,Home,1,1174.98,0.2,Credit Card,Aurangabad,Delivered,939.98
+ORD00869,2025-01-01,CUST0150,Wireless Headphones,Electronics,3,2368.09,0.05,UPI,Aurangabad,Delivered,6749.06
+ORD00870,2025-01-11,CUST0176,Casual T-Shirt,Fashion,1,615.9,0.05,Debit Card,Thane,Cancelled,585.1
+ORD00871,2025-09-30,CUST0040,Smart Watch,Electronics,3,5477.2,0,Debit Card,Thane,Delivered,16431.6
+ORD00872,2025-11-03,CUST0078,Running Shoes,Fashion,1,2482.33,0.1,UPI,Aurangabad,Delivered,2234.1
+ORD00873,2025-03-28,CUST0143,Table Lamp,Home,1,1264.74,0,UPI,Pune,Returned,1264.74
+ORD00874,2025-08-18,CUST0087,Storage Organizer,Home,1,888.33,0.2,Credit Card,Nagpur,Delivered,710.66
+ORD00875,2025-05-04,CUST0017,Casual T-Shirt,Fashion,2,604.84,0,Debit Card,Pune,Returned,1209.68
+ORD00876,2025-09-23,CUST0068,Casual T-Shirt,Fashion,3,716.98,0,Cash on Delivery,Nagpur,Delivered,2150.94
+ORD00877,2025-06-10,CUST0020,Smart Watch,Electronics,2,5200.96,0,Debit Card,Pune,Delivered,10401.92
+ORD00878,2025-03-24,CUST0129,Table Lamp,Home,3,1407.11,0,UPI,Pune,Delivered,4221.33
+ORD00879,2025-02-16,CUST0002,Skincare Set,Beauty,3,1700.42,0,Credit Card,Mumbai,Cancelled,5101.26
+ORD00880,2025-01-26,CUST0187,Storage Organizer,Home,3,864.57,0.1,UPI,Pune,Returned,2334.34
+ORD00881,2025-03-08,CUST0020,Wireless Headphones,Electronics,3,2227.59,0.2,Cash on Delivery,Nagpur,Returned,5346.22
+ORD00882,2025-09-17,CUST0236,Storage Organizer,Home,3,883.28,0.2,Debit Card,Nanded,Cancelled,2119.87
+ORD00883,2025-04-17,CUST0007,Wireless Headphones,Electronics,1,2598.63,0.1,Credit Card,Nagpur,Delivered,2338.77
+ORD00884,2025-03-21,CUST0026,Running Shoes,Fashion,2,1921.16,0.1,Cash on Delivery,Nagpur,Delivered,3458.09
+ORD00885,2025-11-05,CUST0053,Table Lamp,Home,3,1385.62,0.1,UPI,Aurangabad,Delivered,3741.17
+ORD00886,2025-04-20,CUST0164,Skincare Set,Beauty,2,1699.6,0.15,Credit Card,Nashik,Cancelled,2889.32
+ORD00887,2025-11-24,CUST0198,Storage Organizer,Home,1,843.34,0.1,Debit Card,Pune,Delivered,759.01
+ORD00888,2025-03-12,CUST0165,Smart Watch,Electronics,1,4952.58,0.2,Debit Card,Pune,Cancelled,3962.06
+ORD00889,2025-08-13,CUST0228,Smart Watch,Electronics,2,5365.59,0.15,Debit Card,Aurangabad,Delivered,9121.5
+ORD00890,2025-09-11,CUST0082,Skincare Set,Beauty,1,1371.27,0.15,Credit Card,Nashik,Delivered,1165.58
+ORD00891,2025-10-24,CUST0101,Yoga Mat,Sports,3,1055.74,0.05,Credit Card,Nanded,Delivered,3008.86
+ORD00892,2025-07-27,CUST0188,Running Shoes,Fashion,1,2075.8,0.2,Debit Card,Thane,Delivered,1660.64
+ORD00893,2025-11-22,CUST0150,Skincare Set,Beauty,3,1302.54,0.15,Debit Card,Pune,Delivered,3321.48
+ORD00894,2025-10-18,CUST0126,Running Shoes,Fashion,3,2059.56,0,Cash on Delivery,Nanded,Delivered,6178.68
+ORD00895,2025-07-10,CUST0044,Wireless Headphones,Electronics,2,2421.9,0.2,Credit Card,Nanded,Cancelled,3875.04
+ORD00896,2025-10-21,CUST0137,Table Lamp,Home,3,1128.34,0.15,UPI,Aurangabad,Delivered,2877.27
+ORD00897,2025-12-16,CUST0001,Running Shoes,Fashion,3,2351.35,0.2,Cash on Delivery,Nanded,Delivered,5643.24
+ORD00898,2025-04-22,CUST0147,Skincare Set,Beauty,3,1717.38,0.15,Credit Card,Thane,Delivered,4379.32
+ORD00899,2025-11-04,CUST0110,Wireless Headphones,Electronics,3,2593.49,0.15,Cash on Delivery,Nanded,Cancelled,6613.4
+ORD00900,2025-11-23,CUST0040,Yoga Mat,Sports,1,977.32,0.1,Credit Card,Mumbai,Returned,879.59
+ORD00901,2025-12-26,CUST0174,Casual T-Shirt,Fashion,3,675.27,0.15,UPI,Mumbai,Cancelled,1721.94
+ORD00902,2025-08-22,CUST0182,Yoga Mat,Sports,2,989.69,0,Credit Card,Aurangabad,Delivered,1979.38
+ORD00903,2025-09-30,CUST0169,Skincare Set,Beauty,2,1578.09,0,Credit Card,Thane,Delivered,3156.18
+ORD00904,2025-06-18,CUST0212,Wireless Headphones,Electronics,3,2414.68,0.1,Cash on Delivery,Aurangabad,Delivered,6519.64
+ORD00905,2025-09-11,CUST0105,Table Lamp,Home,1,1319.22,0,UPI,Nagpur,Delivered,1319.22
+ORD00906,2025-01-06,CUST0249,Yoga Mat,Sports,2,1095.44,0.2,Credit Card,Mumbai,Returned,1752.7
+ORD00907,2025-09-09,CUST0147,Running Shoes,Fashion,3,2113.61,0.05,UPI,Thane,Delivered,6023.79
+ORD00908,2025-09-26,CUST0067,Yoga Mat,Sports,3,962.19,0.05,Credit Card,Nagpur,Returned,2742.24
+ORD00909,2025-04-04,CUST0203,Smart Watch,Electronics,2,4671,0,UPI,Mumbai,Delivered,9342
+ORD00910,2025-08-20,CUST0122,Table Lamp,Home,2,1121.32,0.2,UPI,Nashik,Cancelled,1794.11
+ORD00911,2025-03-26,CUST0235,Running Shoes,Fashion,2,1897.24,0,Cash on Delivery,Aurangabad,Returned,3794.48
+ORD00912,2025-12-29,CUST0020,Running Shoes,Fashion,1,2322,0.1,Credit Card,Nagpur,Delivered,2089.8
+ORD00913,2025-04-09,CUST0132,Skincare Set,Beauty,2,1668.22,0.2,Cash on Delivery,Nagpur,Delivered,2669.15
+ORD00914,2025-04-26,CUST0063,Yoga Mat,Sports,1,880.26,0.05,Cash on Delivery,Mumbai,Delivered,836.25
+ORD00915,2025-10-28,CUST0048,Smart Watch,Electronics,2,5595.32,0.1,UPI,Aurangabad,Delivered,10071.58
+ORD00916,2025-05-27,CUST0108,Running Shoes,Fashion,2,2084.19,0.1,Cash on Delivery,Nagpur,Delivered,3751.54
+ORD00917,2025-11-14,CUST0239,Smart Watch,Electronics,3,5161.72,0.1,UPI,Aurangabad,Delivered,13936.64
+ORD00918,2025-01-05,CUST0046,Casual T-Shirt,Fashion,1,790.17,0.05,Debit Card,Aurangabad,Delivered,750.66
+ORD00919,2025-01-01,CUST0086,Skincare Set,Beauty,2,1650.61,0,Debit Card,Mumbai,Delivered,3301.22
+ORD00920,2025-05-17,CUST0009,Skincare Set,Beauty,3,1669.28,0,UPI,Thane,Returned,5007.84
+ORD00921,2025-04-27,CUST0242,Table Lamp,Home,1,1361.41,0.1,Cash on Delivery,Nashik,Delivered,1225.27
+ORD00922,2025-01-18,CUST0065,Skincare Set,Beauty,3,1508.47,0.1,UPI,Thane,Delivered,4072.87
+ORD00923,2025-06-22,CUST0119,Casual T-Shirt,Fashion,3,608.21,0.05,Cash on Delivery,Nashik,Delivered,1733.4
+ORD00924,2025-11-12,CUST0230,Storage Organizer,Home,3,791.75,0.05,UPI,Nashik,Delivered,2256.49
+ORD00925,2025-08-23,CUST0111,Yoga Mat,Sports,2,1068.93,0.05,Debit Card,Nanded,Delivered,2030.97
+ORD00926,2025-01-14,CUST0193,Table Lamp,Home,2,1283.02,0,Cash on Delivery,Nanded,Delivered,2566.04
+ORD00927,2025-09-13,CUST0220,Table Lamp,Home,3,1131.67,0.05,UPI,Thane,Delivered,3225.26
+ORD00928,2025-03-06,CUST0015,Table Lamp,Home,2,1220.69,0.2,Credit Card,Aurangabad,Delivered,1953.1
+ORD00929,2025-03-02,CUST0113,Smart Watch,Electronics,2,4295.85,0.2,UPI,Nanded,Delivered,6873.36
+ORD00930,2025-10-15,CUST0115,Table Lamp,Home,2,1352.61,0.2,Cash on Delivery,Pune,Cancelled,2164.18
+ORD00931,2025-01-20,CUST0211,Casual T-Shirt,Fashion,2,756.47,0.1,Debit Card,Aurangabad,Returned,1361.65
+ORD00932,2025-04-04,CUST0114,Wireless Headphones,Electronics,3,2661.17,0.2,UPI,Nanded,Delivered,6386.81
+ORD00933,2025-12-22,CUST0092,Storage Organizer,Home,3,916.34,0.15,Cash on Delivery,Thane,Returned,2336.67
+ORD00934,2025-09-06,CUST0160,Casual T-Shirt,Fashion,3,788.61,0.2,Debit Card,Thane,Returned,1892.66
+ORD00935,2025-08-29,CUST0094,Running Shoes,Fashion,2,2516.95,0,Debit Card,Pune,Delivered,5033.9
+ORD00936,2025-07-22,CUST0094,Casual T-Shirt,Fashion,2,698.27,0,UPI,Pune,Cancelled,1396.54
+ORD00937,2025-09-09,CUST0088,Wireless Headphones,Electronics,2,2863.24,0.1,Cash on Delivery,Thane,Delivered,5153.83
+ORD00938,2025-04-24,CUST0190,Wireless Headphones,Electronics,2,2138.3,0.05,UPI,Nashik,Cancelled,4062.77
+ORD00939,2025-05-24,CUST0130,Table Lamp,Home,1,1264.8,0.05,Credit Card,Mumbai,Cancelled,1201.56
+ORD00940,2025-11-17,CUST0206,Storage Organizer,Home,2,1017.57,0.05,Cash on Delivery,Nagpur,Delivered,1933.38
+ORD00941,2025-02-03,CUST0212,Smart Watch,Electronics,3,4860.03,0.15,Debit Card,Aurangabad,Cancelled,12393.08
+ORD00942,2025-05-16,CUST0010,Running Shoes,Fashion,2,2397.79,0.2,Cash on Delivery,Nashik,Delivered,3836.46
+ORD00943,2025-10-17,CUST0006,Storage Organizer,Home,3,1008.78,0.05,Debit Card,Thane,Delivered,2875.02
+ORD00944,2025-10-30,CUST0118,Storage Organizer,Home,1,789.8,0.2,UPI,Pune,Cancelled,631.84
+ORD00945,2025-06-13,CUST0034,Casual T-Shirt,Fashion,3,782.81,0.2,UPI,Nagpur,Cancelled,1878.74
+ORD00946,2025-02-08,CUST0247,Casual T-Shirt,Fashion,2,787.38,0.1,UPI,Nanded,Returned,1417.28
+ORD00947,2025-10-04,CUST0117,Casual T-Shirt,Fashion,1,730.25,0.1,Debit Card,Thane,Delivered,657.23
+ORD00948,2025-10-21,CUST0141,Wireless Headphones,Electronics,1,2835.19,0,UPI,Mumbai,Delivered,2835.19
+ORD00949,2025-08-09,CUST0023,Running Shoes,Fashion,2,2285.78,0,Debit Card,Mumbai,Delivered,4571.56
+ORD00950,2025-10-10,CUST0025,Skincare Set,Beauty,2,1460.4,0,Credit Card,Mumbai,Cancelled,2920.8
+ORD00951,2025-04-17,CUST0050,Table Lamp,Home,1,1283.57,0,Debit Card,Nagpur,Returned,1283.57
+ORD00952,2025-08-05,CUST0144,Yoga Mat,Sports,1,1064.35,0.15,Debit Card,Nashik,Returned,904.7
+ORD00953,2025-03-02,CUST0147,Casual T-Shirt,Fashion,2,772.16,0.15,Debit Card,Aurangabad,Delivered,1312.67
+ORD00954,2025-12-14,CUST0234,Wireless Headphones,Electronics,2,2532.56,0.2,Cash on Delivery,Pune,Cancelled,4052.1
+ORD00955,2025-09-23,CUST0155,Storage Organizer,Home,3,902.59,0,Debit Card,Nagpur,Delivered,2707.77
+ORD00956,2025-01-18,CUST0169,Skincare Set,Beauty,2,1286.88,0.15,Cash on Delivery,Nanded,Delivered,2187.7
+ORD00957,2025-05-18,CUST0076,Running Shoes,Fashion,2,1966.71,0.05,Debit Card,Nashik,Delivered,3736.75
+ORD00958,2025-08-29,CUST0097,Skincare Set,Beauty,1,1388.32,0.05,UPI,Nanded,Delivered,1318.9
+ORD00959,2025-02-17,CUST0161,Casual T-Shirt,Fashion,3,600.3,0,Debit Card,Thane,Delivered,1800.9
+ORD00960,2025-06-02,CUST0038,Skincare Set,Beauty,1,1712.13,0.2,Cash on Delivery,Pune,Delivered,1369.7
+ORD00961,2025-06-28,CUST0210,Smart Watch,Electronics,3,5367.31,0.2,Debit Card,Thane,Delivered,12881.54
+ORD00962,2025-07-26,CUST0235,Running Shoes,Fashion,1,2426.99,0.15,Debit Card,Thane,Delivered,2062.94
+ORD00963,2025-11-05,CUST0117,Casual T-Shirt,Fashion,2,761.11,0.2,Cash on Delivery,Nanded,Returned,1217.78
+ORD00964,2025-04-09,CUST0112,Yoga Mat,Sports,2,951.59,0.2,Debit Card,Mumbai,Delivered,1522.54
+ORD00965,2025-09-17,CUST0091,Table Lamp,Home,2,1377.01,0.05,UPI,Thane,Cancelled,2616.32
+ORD00966,2025-11-01,CUST0009,Storage Organizer,Home,1,982.36,0,Credit Card,Mumbai,Delivered,982.36
+ORD00967,2025-05-22,CUST0225,Casual T-Shirt,Fashion,2,715.88,0,Credit Card,Nanded,Cancelled,1431.76
+ORD00968,2025-02-06,CUST0121,Storage Organizer,Home,1,900.5,0.2,Credit Card,Thane,Cancelled,720.4
+ORD00969,2025-01-31,CUST0061,Skincare Set,Beauty,3,1402.28,0.2,Cash on Delivery,Nanded,Delivered,3365.47
+ORD00970,2025-04-22,CUST0015,Storage Organizer,Home,2,1010.96,0.15,UPI,Nagpur,Delivered,1718.63
+ORD00971,2025-02-10,CUST0225,Running Shoes,Fashion,2,2372.86,0.15,Credit Card,Nashik,Cancelled,4033.86
+ORD00972,2025-01-25,CUST0076,Yoga Mat,Sports,1,1076.52,0.05,Cash on Delivery,Nagpur,Returned,1022.69
+ORD00973,2025-10-31,CUST0087,Yoga Mat,Sports,1,1139.41,0.2,Credit Card,Thane,Returned,911.53
+ORD00974,2025-02-12,CUST0106,Skincare Set,Beauty,1,1713.56,0.2,Debit Card,Nanded,Returned,1370.85
+ORD00975,2025-05-23,CUST0024,Casual T-Shirt,Fashion,2,757.55,0.05,UPI,Mumbai,Delivered,1439.34
+ORD00976,2025-06-20,CUST0084,Skincare Set,Beauty,2,1319.75,0.2,Credit Card,Thane,Delivered,2111.6
+ORD00977,2025-01-13,CUST0005,Yoga Mat,Sports,2,1060.37,0.05,Cash on Delivery,Nagpur,Returned,2014.7
+ORD00978,2025-12-08,CUST0197,Storage Organizer,Home,2,1011.81,0.2,Credit Card,Mumbai,Delivered,1618.9
+ORD00979,2025-04-02,CUST0100,Casual T-Shirt,Fashion,3,632.23,0,Debit Card,Nashik,Returned,1896.69
+ORD00980,2025-10-28,CUST0183,Yoga Mat,Sports,2,1073.37,0.05,UPI,Aurangabad,Cancelled,2039.4
+ORD00981,2025-09-14,CUST0210,Wireless Headphones,Electronics,3,2488.02,0.2,Credit Card,Mumbai,Delivered,5971.25
+ORD00982,2025-05-25,CUST0111,Running Shoes,Fashion,2,1892.07,0.15,Debit Card,Nashik,Delivered,3216.52
+ORD00983,2025-08-24,CUST0009,Table Lamp,Home,3,1268.16,0.2,Cash on Delivery,Nagpur,Returned,3043.58
+ORD00984,2025-10-09,CUST0157,Yoga Mat,Sports,2,1109.66,0.15,Debit Card,Nanded,Delivered,1886.42
+ORD00985,2025-07-24,CUST0186,Wireless Headphones,Electronics,3,2392.58,0.1,UPI,Thane,Delivered,6459.97
+ORD00986,2025-06-17,CUST0084,Yoga Mat,Sports,3,1027.71,0.05,Cash on Delivery,Pune,Delivered,2928.97
+ORD00987,2025-11-05,CUST0135,Storage Organizer,Home,3,940.75,0,Debit Card,Aurangabad,Returned,2822.25
+ORD00988,2025-02-08,CUST0065,Storage Organizer,Home,1,854.34,0.2,UPI,Thane,Delivered,683.47
+ORD00989,2025-02-22,CUST0019,Table Lamp,Home,3,1246.04,0,Credit Card,Nashik,Delivered,3738.12
+ORD00990,2025-09-25,CUST0076,Smart Watch,Electronics,2,4506.27,0.1,Cash on Delivery,Nashik,Returned,8111.29
+ORD00991,2025-08-15,CUST0150,Storage Organizer,Home,3,811.4,0.05,Credit Card,Pune,Delivered,2312.49
+ORD00992,2025-08-14,CUST0059,Skincare Set,Beauty,1,1486.66,0,UPI,Aurangabad,Returned,1486.66
+ORD00993,2025-01-12,CUST0160,Storage Organizer,Home,1,790.46,0.1,Cash on Delivery,Pune,Returned,711.41
+ORD00994,2025-01-04,CUST0118,Running Shoes,Fashion,1,2085.87,0.15,Debit Card,Nagpur,Delivered,1772.99
+ORD00995,2025-03-24,CUST0195,Casual T-Shirt,Fashion,3,652.06,0.1,Cash on Delivery,Thane,Returned,1760.56
+ORD00996,2025-08-25,CUST0129,Smart Watch,Electronics,3,4419.89,0.15,Cash on Delivery,Nagpur,Delivered,11270.72
+ORD00997,2025-04-06,CUST0220,Storage Organizer,Home,2,990.69,0.2,Credit Card,Nanded,Delivered,1585.1
+ORD00998,2025-07-17,CUST0227,Storage Organizer,Home,3,921.93,0,Cash on Delivery,Nashik,Cancelled,2765.79
+ORD00999,2025-04-19,CUST0114,Wireless Headphones,Electronics,1,2606.22,0,Debit Card,Mumbai,Cancelled,2606.22
+ORD01000,2025-06-18,CUST0197,Yoga Mat,Sports,1,977.87,0.2,UPI,Mumbai,Delivered,782.3
+ORD01001,2025-04-26,CUST0169,Running Shoes,Fashion,3,2181.27,0.1,Credit Card,Aurangabad,Delivered,5889.43
+ORD01002,2025-10-22,CUST0235,Storage Organizer,Home,1,970.34,0.1,Debit Card,Aurangabad,Delivered,873.31
+ORD01003,2025-03-19,CUST0147,Smart Watch,Electronics,1,5134.16,0.1,Credit Card,Nagpur,Returned,4620.74
+ORD01004,2025-11-14,CUST0085,Casual T-Shirt,Fashion,1,664.46,0,Credit Card,Nagpur,Cancelled,664.46
+ORD01005,2025-03-11,CUST0111,Yoga Mat,Sports,3,1036.04,0.05,Debit Card,Aurangabad,Returned,2952.71
+ORD01006,2025-10-27,CUST0199,Casual T-Shirt,Fashion,1,623.49,0.2,Debit Card,Aurangabad,Delivered,498.79
+ORD01007,2025-07-24,CUST0020,Yoga Mat,Sports,2,1066.46,0.1,Debit Card,Nashik,Cancelled,1919.63
+ORD01008,2025-09-09,CUST0148,Skincare Set,Beauty,1,1487.31,0,Credit Card,Mumbai,Delivered,1487.31
+ORD01009,2025-06-05,CUST0124,Running Shoes,Fashion,3,2358.29,0.05,Debit Card,Thane,Returned,6721.13
+ORD01010,2025-03-07,CUST0106,Yoga Mat,Sports,3,851.68,0.15,UPI,Nagpur,Delivered,2171.78
+ORD01011,2025-08-30,CUST0221,Casual T-Shirt,Fashion,3,776.19,0,Debit Card,Pune,Delivered,2328.57
+ORD01012,2025-12-28,CUST0237,Table Lamp,Home,3,1120.75,0.05,Debit Card,Aurangabad,Delivered,3194.14
+ORD01013,2025-02-25,CUST0219,Yoga Mat,Sports,3,869.24,0.15,Cash on Delivery,Pune,Delivered,2216.56
+ORD01014,2025-06-16,CUST0164,Yoga Mat,Sports,3,1025.27,0.15,UPI,Nagpur,Returned,2614.44
+ORD01015,2025-05-28,CUST0026,Yoga Mat,Sports,1,940.28,0.15,Cash on Delivery,Mumbai,Cancelled,799.24
+ORD01016,2025-03-25,CUST0140,Running Shoes,Fashion,3,2515.5,0.1,UPI,Mumbai,Returned,6791.85
+ORD01017,2025-06-24,CUST0030,Smart Watch,Electronics,2,5281.44,0.15,Cash on Delivery,Nashik,Delivered,8978.45
+ORD01018,2025-08-18,CUST0022,Storage Organizer,Home,3,864.87,0.15,UPI,Aurangabad,Delivered,2205.42
+ORD01019,2025-10-18,CUST0191,Running Shoes,Fashion,3,2328.42,0.2,UPI,Nanded,Returned,5588.21
+ORD01020,2025-09-03,CUST0045,Wireless Headphones,Electronics,2,2333.74,0,Cash on Delivery,Mumbai,Delivered,4667.48
+ORD01021,2025-10-28,CUST0151,Smart Watch,Electronics,2,4462.58,0.15,Cash on Delivery,Mumbai,Delivered,7586.39
+ORD01022,2025-08-02,CUST0090,Table Lamp,Home,3,1240.73,0.1,Cash on Delivery,Nagpur,Delivered,3349.97
+ORD01023,2025-12-08,CUST0240,Storage Organizer,Home,2,828.45,0.15,UPI,Mumbai,Returned,1408.37
+ORD01024,2025-10-01,CUST0062,Table Lamp,Home,3,1278.13,0.15,Debit Card,Nashik,Returned,3259.23
+ORD01025,2025-12-24,CUST0129,Storage Organizer,Home,2,835.2,0.2,Debit Card,Thane,Delivered,1336.32
+ORD01026,2025-12-29,CUST0165,Smart Watch,Electronics,2,5292.7,0.2,Credit Card,Nashik,Cancelled,8468.32
+ORD01027,2025-05-27,CUST0144,Smart Watch,Electronics,1,5562.32,0.15,Credit Card,Nagpur,Delivered,4727.97
+ORD01028,2025-03-30,CUST0198,Storage Organizer,Home,1,860.63,0.2,Cash on Delivery,Mumbai,Delivered,688.5
+ORD01029,2025-01-11,CUST0141,Table Lamp,Home,3,1194.7,0.15,Cash on Delivery,Mumbai,Returned,3046.49
+ORD01030,2025-01-04,CUST0158,Storage Organizer,Home,1,997.88,0.2,Cash on Delivery,Aurangabad,Delivered,798.3
+ORD01031,2025-03-13,CUST0209,Table Lamp,Home,2,1364.9,0.15,Credit Card,Nashik,Returned,2320.33
+ORD01032,2025-05-30,CUST0229,Yoga Mat,Sports,3,863.74,0.2,Credit Card,Pune,Delivered,2072.98
+ORD01033,2025-05-28,CUST0234,Yoga Mat,Sports,2,857.44,0.05,UPI,Nagpur,Delivered,1629.14
+ORD01034,2025-08-21,CUST0024,Skincare Set,Beauty,1,1369.36,0.05,Debit Card,Pune,Cancelled,1300.89
+ORD01035,2025-10-11,CUST0069,Running Shoes,Fashion,3,2288.55,0.15,Credit Card,Pune,Delivered,5835.8
+ORD01036,2025-06-27,CUST0204,Yoga Mat,Sports,2,905,0.1,Cash on Delivery,Nagpur,Delivered,1629
+ORD01037,2025-09-17,CUST0051,Wireless Headphones,Electronics,1,2674.84,0.15,UPI,Mumbai,Delivered,2273.61
+ORD01038,2025-09-10,CUST0048,Skincare Set,Beauty,2,1498.45,0,Credit Card,Aurangabad,Cancelled,2996.9
+ORD01039,2025-10-17,CUST0244,Storage Organizer,Home,1,936.46,0.15,Cash on Delivery,Aurangabad,Delivered,795.99
+ORD01040,2025-03-03,CUST0173,Table Lamp,Home,2,1200.49,0.2,UPI,Pune,Returned,1920.78
+ORD01041,2025-02-04,CUST0021,Table Lamp,Home,3,1264.97,0.15,Cash on Delivery,Aurangabad,Returned,3225.67
+ORD01042,2025-09-21,CUST0204,Storage Organizer,Home,2,1032.96,0.05,Credit Card,Mumbai,Delivered,1962.62
+ORD01043,2025-07-20,CUST0030,Skincare Set,Beauty,1,1345.78,0.05,UPI,Pune,Cancelled,1278.49
+ORD01044,2025-12-25,CUST0246,Casual T-Shirt,Fashion,3,733.58,0,Debit Card,Nanded,Delivered,2200.74
+ORD01045,2025-04-05,CUST0081,Yoga Mat,Sports,2,992.05,0.15,Cash on Delivery,Nashik,Returned,1686.48
+ORD01046,2025-04-20,CUST0138,Table Lamp,Home,3,1105.98,0.05,Debit Card,Pune,Delivered,3152.04
+ORD01047,2025-05-11,CUST0058,Storage Organizer,Home,3,770.55,0,UPI,Thane,Delivered,2311.65
+ORD01048,2025-09-03,CUST0190,Wireless Headphones,Electronics,3,2471.15,0.2,Credit Card,Pune,Delivered,5930.76
+ORD01049,2025-06-24,CUST0026,Skincare Set,Beauty,3,1630.96,0.1,Credit Card,Nashik,Delivered,4403.59
+ORD01050,2025-07-18,CUST0113,Smart Watch,Electronics,3,5700.53,0.1,Credit Card,Mumbai,Delivered,15391.43
+ORD01051,2025-04-05,CUST0161,Table Lamp,Home,3,1267.93,0.1,Cash on Delivery,Aurangabad,Delivered,3423.41
+ORD01052,2025-01-06,CUST0056,Skincare Set,Beauty,3,1336.35,0.05,Cash on Delivery,Mumbai,Delivered,3808.6
+ORD01053,2025-02-14,CUST0174,Wireless Headphones,Electronics,3,2833.39,0,Credit Card,Thane,Delivered,8500.17
+ORD01054,2025-10-26,CUST0074,Yoga Mat,Sports,1,1020.1,0.15,Credit Card,Mumbai,Delivered,867.09
+ORD01055,2025-10-16,CUST0001,Smart Watch,Electronics,2,5414.6,0,Credit Card,Pune,Delivered,10829.2
+ORD01056,2025-09-07,CUST0160,Wireless Headphones,Electronics,1,2733.44,0.1,Cash on Delivery,Mumbai,Delivered,2460.1
+ORD01057,2025-08-07,CUST0087,Casual T-Shirt,Fashion,2,672.32,0.2,Credit Card,Pune,Delivered,1075.71
+ORD01058,2025-12-01,CUST0059,Casual T-Shirt,Fashion,3,688.03,0.2,Credit Card,Mumbai,Delivered,1651.27
+ORD01059,2025-10-14,CUST0245,Wireless Headphones,Electronics,2,2374.92,0.05,Debit Card,Nagpur,Delivered,4512.35
+ORD01060,2025-01-19,CUST0048,Wireless Headphones,Electronics,2,2809.68,0.1,Cash on Delivery,Aurangabad,Returned,5057.42
+ORD01061,2025-09-26,CUST0129,Wireless Headphones,Electronics,3,2370.88,0.15,Cash on Delivery,Nashik,Delivered,6045.74
+ORD01062,2025-03-23,CUST0244,Running Shoes,Fashion,1,2136.94,0.15,Cash on Delivery,Pune,Cancelled,1816.4
+ORD01063,2025-05-09,CUST0103,Skincare Set,Beauty,2,1492.96,0.1,Credit Card,Nashik,Cancelled,2687.33
+ORD01064,2025-02-02,CUST0126,Storage Organizer,Home,2,1009.35,0.15,Cash on Delivery,Nanded,Delivered,1715.89
+ORD01065,2025-12-11,CUST0002,Yoga Mat,Sports,2,1112.52,0.1,Cash on Delivery,Thane,Cancelled,2002.54
+ORD01066,2025-08-18,CUST0217,Yoga Mat,Sports,2,936.67,0.2,Cash on Delivery,Nanded,Delivered,1498.67
+ORD01067,2025-07-29,CUST0121,Running Shoes,Fashion,2,2015.81,0.15,UPI,Thane,Delivered,3426.88
+ORD01068,2025-10-03,CUST0225,Wireless Headphones,Electronics,1,2756.96,0,Debit Card,Nashik,Returned,2756.96
+ORD01069,2025-10-06,CUST0165,Yoga Mat,Sports,3,958.97,0.15,Debit Card,Pune,Delivered,2445.37
+ORD01070,2025-03-21,CUST0136,Skincare Set,Beauty,2,1680.45,0.15,Debit Card,Thane,Delivered,2856.76
+ORD01071,2025-07-13,CUST0213,Casual T-Shirt,Fashion,2,645.08,0.05,Cash on Delivery,Pune,Delivered,1225.65
+ORD01072,2025-06-19,CUST0147,Casual T-Shirt,Fashion,2,745.33,0.05,Debit Card,Pune,Cancelled,1416.13
+ORD01073,2025-08-05,CUST0130,Wireless Headphones,Electronics,3,2180.01,0,Cash on Delivery,Aurangabad,Delivered,6540.03
+ORD01074,2025-12-20,CUST0004,Running Shoes,Fashion,3,2250.84,0.05,UPI,Nanded,Cancelled,6414.89
+ORD01075,2025-09-05,CUST0163,Storage Organizer,Home,2,921.68,0.1,UPI,Nagpur,Delivered,1659.02
+ORD01076,2025-08-11,CUST0095,Storage Organizer,Home,3,1024.09,0.1,Credit Card,Nagpur,Delivered,2765.04
+ORD01077,2025-09-02,CUST0191,Wireless Headphones,Electronics,3,2137.67,0.15,Debit Card,Pune,Returned,5451.06
+ORD01078,2025-01-13,CUST0088,Smart Watch,Electronics,3,4786.32,0.15,Credit Card,Aurangabad,Delivered,12205.12
+ORD01079,2025-09-29,CUST0208,Smart Watch,Electronics,2,5481.46,0.05,Cash on Delivery,Nagpur,Delivered,10414.77
+ORD01080,2025-03-13,CUST0156,Table Lamp,Home,1,1297.96,0.2,Cash on Delivery,Thane,Delivered,1038.37
+ORD01081,2025-09-11,CUST0195,Running Shoes,Fashion,1,1922.07,0.2,Cash on Delivery,Pune,Delivered,1537.66
+ORD01082,2025-04-19,CUST0084,Running Shoes,Fashion,1,2436.04,0.05,Debit Card,Nanded,Cancelled,2314.24
+ORD01083,2025-08-10,CUST0090,Smart Watch,Electronics,3,4531.18,0.1,UPI,Nashik,Cancelled,12234.19
+ORD01084,2025-01-19,CUST0105,Running Shoes,Fashion,2,2001.62,0,Credit Card,Nashik,Delivered,4003.24
+ORD01085,2025-07-29,CUST0026,Wireless Headphones,Electronics,2,2830.29,0.1,Cash on Delivery,Thane,Delivered,5094.52
+ORD01086,2025-04-16,CUST0184,Running Shoes,Fashion,1,2034.89,0.2,Debit Card,Thane,Delivered,1627.91
+ORD01087,2025-11-08,CUST0024,Running Shoes,Fashion,3,1986.4,0,Cash on Delivery,Nagpur,Returned,5959.2
+ORD01088,2025-03-06,CUST0094,Table Lamp,Home,3,1398.01,0.1,Credit Card,Thane,Delivered,3774.63
+ORD01089,2025-03-25,CUST0052,Wireless Headphones,Electronics,3,2505.13,0.05,Debit Card,Nashik,Delivered,7139.62
+ORD01090,2025-09-08,CUST0019,Skincare Set,Beauty,3,1712.53,0,Debit Card,Mumbai,Cancelled,5137.59
+ORD01091,2025-12-30,CUST0112,Wireless Headphones,Electronics,2,2477.07,0.1,Cash on Delivery,Nagpur,Delivered,4458.73
+ORD01092,2025-03-16,CUST0094,Skincare Set,Beauty,1,1337.31,0.1,Credit Card,Thane,Delivered,1203.58
+ORD01093,2025-06-09,CUST0073,Storage Organizer,Home,3,975.9,0.05,Debit Card,Mumbai,Delivered,2781.31
+ORD01094,2025-11-30,CUST0026,Casual T-Shirt,Fashion,1,614.2,0,Cash on Delivery,Nanded,Returned,614.2
+ORD01095,2025-06-28,CUST0031,Yoga Mat,Sports,2,924.46,0.1,Debit Card,Thane,Delivered,1664.03
+ORD01096,2025-01-19,CUST0053,Running Shoes,Fashion,3,2081.91,0,Cash on Delivery,Nanded,Delivered,6245.73
+ORD01097,2025-02-08,CUST0146,Wireless Headphones,Electronics,2,2431.5,0.15,Credit Card,Nashik,Delivered,4133.55
+ORD01098,2025-08-21,CUST0055,Casual T-Shirt,Fashion,1,684.6,0.2,Cash on Delivery,Aurangabad,Returned,547.68
+ORD01099,2025-02-01,CUST0140,Running Shoes,Fashion,1,2033.97,0,Debit Card,Aurangabad,Delivered,2033.97
+ORD01100,2025-03-01,CUST0003,Table Lamp,Home,2,1437.94,0.05,Credit Card,Nanded,Returned,2732.09
+ORD01101,2025-07-20,CUST0197,Storage Organizer,Home,3,841.68,0.05,Debit Card,Mumbai,Delivered,2398.79
+ORD01102,2025-02-20,CUST0167,Casual T-Shirt,Fashion,1,771.22,0.05,Cash on Delivery,Thane,Delivered,732.66
+ORD01103,2025-03-03,CUST0218,Casual T-Shirt,Fashion,2,612.49,0.05,UPI,Nashik,Delivered,1163.73
+ORD01104,2025-01-13,CUST0188,Smart Watch,Electronics,1,4940.18,0.2,Debit Card,Mumbai,Delivered,3952.14
+ORD01105,2025-07-21,CUST0180,Wireless Headphones,Electronics,3,2151.26,0.15,Cash on Delivery,Thane,Delivered,5485.71
+ORD01106,2025-11-03,CUST0056,Wireless Headphones,Electronics,2,2379.11,0.05,Cash on Delivery,Nagpur,Cancelled,4520.31
+ORD01107,2025-01-07,CUST0086,Skincare Set,Beauty,2,1611.23,0.2,Cash on Delivery,Nagpur,Delivered,2577.97
+ORD01108,2025-10-30,CUST0109,Skincare Set,Beauty,2,1635.6,0.2,Cash on Delivery,Nagpur,Cancelled,2616.96
+ORD01109,2025-05-09,CUST0056,Casual T-Shirt,Fashion,2,635.49,0.05,Debit Card,Mumbai,Delivered,1207.43
+ORD01110,2025-07-13,CUST0166,Wireless Headphones,Electronics,3,2769.78,0.15,UPI,Nanded,Delivered,7062.94
+ORD01111,2025-04-06,CUST0221,Wireless Headphones,Electronics,2,2324.99,0.05,Cash on Delivery,Pune,Cancelled,4417.48
+ORD01112,2025-04-18,CUST0141,Wireless Headphones,Electronics,2,2144.88,0.15,Cash on Delivery,Pune,Cancelled,3646.3
+ORD01113,2025-11-02,CUST0236,Table Lamp,Home,1,1263.41,0.05,Credit Card,Nanded,Delivered,1200.24
+ORD01114,2025-12-31,CUST0071,Storage Organizer,Home,3,1012.08,0.15,Cash on Delivery,Aurangabad,Returned,2580.8
+ORD01115,2025-12-03,CUST0233,Yoga Mat,Sports,1,1130.45,0.1,Cash on Delivery,Mumbai,Delivered,1017.41
+ORD01116,2025-05-01,CUST0022,Table Lamp,Home,2,1405.32,0,Credit Card,Aurangabad,Returned,2810.64
+ORD01117,2025-07-18,CUST0133,Yoga Mat,Sports,3,1148.74,0.2,Credit Card,Nashik,Delivered,2756.98
+ORD01118,2025-02-17,CUST0048,Skincare Set,Beauty,3,1478.17,0,Cash on Delivery,Nashik,Delivered,4434.51
+ORD01119,2025-09-30,CUST0172,Storage Organizer,Home,2,940.72,0.15,UPI,Mumbai,Returned,1599.22
+ORD01120,2025-11-16,CUST0235,Casual T-Shirt,Fashion,3,744.9,0,Cash on Delivery,Nashik,Delivered,2234.7
+ORD01121,2025-04-16,CUST0094,Table Lamp,Home,3,1379.05,0.15,Debit Card,Pune,Delivered,3516.58
+ORD01122,2025-09-25,CUST0051,Wireless Headphones,Electronics,3,2542.94,0.05,Cash on Delivery,Nashik,Cancelled,7247.38
+ORD01123,2025-11-07,CUST0190,Yoga Mat,Sports,1,903.25,0.1,Cash on Delivery,Aurangabad,Delivered,812.93
+ORD01124,2025-12-25,CUST0197,Running Shoes,Fashion,2,2468.17,0,Debit Card,Thane,Delivered,4936.34
+ORD01125,2025-07-07,CUST0226,Table Lamp,Home,3,1282.83,0.1,Cash on Delivery,Nagpur,Delivered,3463.64
+ORD01126,2025-08-06,CUST0141,Yoga Mat,Sports,2,1139.58,0.15,Credit Card,Nashik,Delivered,1937.29
+ORD01127,2025-10-09,CUST0125,Smart Watch,Electronics,2,4919.84,0.2,Debit Card,Thane,Delivered,7871.74
+ORD01128,2025-03-22,CUST0179,Running Shoes,Fashion,2,2110.65,0.2,UPI,Thane,Delivered,3377.04
+ORD01129,2025-08-24,CUST0013,Table Lamp,Home,3,1282.53,0.05,UPI,Pune,Delivered,3655.21
+ORD01130,2025-07-14,CUST0194,Yoga Mat,Sports,2,982.87,0.05,Cash on Delivery,Pune,Delivered,1867.45
+ORD01131,2025-06-30,CUST0170,Skincare Set,Beauty,2,1362.51,0,Debit Card,Nanded,Returned,2725.02
+ORD01132,2025-10-31,CUST0211,Table Lamp,Home,3,1410.94,0.15,Credit Card,Thane,Delivered,3597.9
+ORD01133,2025-02-03,CUST0132,Yoga Mat,Sports,2,1139.53,0.1,UPI,Nashik,Delivered,2051.15
+ORD01134,2025-06-19,CUST0069,Yoga Mat,Sports,1,984.75,0.15,Debit Card,Pune,Returned,837.04
+ORD01135,2025-01-20,CUST0065,Smart Watch,Electronics,2,5075.79,0.05,UPI,Nashik,Delivered,9644
+ORD01136,2025-03-21,CUST0045,Storage Organizer,Home,1,844.48,0,Debit Card,Nagpur,Delivered,844.48
+ORD01137,2025-09-06,CUST0205,Wireless Headphones,Electronics,3,2543.96,0.1,Credit Card,Nanded,Delivered,6868.69
+ORD01138,2025-10-08,CUST0194,Storage Organizer,Home,1,968.56,0.15,Debit Card,Thane,Returned,823.28
+ORD01139,2025-09-26,CUST0098,Table Lamp,Home,2,1237.01,0.1,UPI,Nashik,Delivered,2226.62
+ORD01140,2025-09-26,CUST0055,Storage Organizer,Home,3,916.45,0,Debit Card,Thane,Delivered,2749.35
+ORD01141,2025-08-07,CUST0048,Wireless Headphones,Electronics,2,2666.77,0.2,UPI,Aurangabad,Delivered,4266.83
+ORD01142,2025-06-07,CUST0120,Wireless Headphones,Electronics,3,2774.39,0.05,Credit Card,Aurangabad,Delivered,7907.01
+ORD01143,2025-01-23,CUST0239,Yoga Mat,Sports,3,927.19,0,Cash on Delivery,Nashik,Cancelled,2781.57
+ORD01144,2025-11-03,CUST0005,Table Lamp,Home,3,1401.85,0,Debit Card,Aurangabad,Returned,4205.55
+ORD01145,2025-03-14,CUST0021,Smart Watch,Electronics,3,4386.96,0.15,Debit Card,Thane,Delivered,11186.75
+ORD01146,2025-10-10,CUST0121,Casual T-Shirt,Fashion,3,680.03,0.2,UPI,Nagpur,Delivered,1632.07
+ORD01147,2025-12-27,CUST0048,Table Lamp,Home,1,1177.87,0.05,UPI,Thane,Delivered,1118.98
+ORD01148,2025-01-17,CUST0199,Running Shoes,Fashion,3,1985.14,0,Debit Card,Nashik,Delivered,5955.42
+ORD01149,2025-03-22,CUST0162,Yoga Mat,Sports,3,1056.59,0.15,UPI,Nanded,Delivered,2694.3
+ORD01150,2025-09-24,CUST0018,Casual T-Shirt,Fashion,2,778.48,0,Credit Card,Mumbai,Delivered,1556.96
+ORD01151,2025-01-17,CUST0074,Yoga Mat,Sports,2,924.26,0,Credit Card,Pune,Delivered,1848.52
+ORD01152,2025-04-28,CUST0081,Skincare Set,Beauty,2,1463.56,0.1,Credit Card,Mumbai,Cancelled,2634.41
+ORD01153,2025-04-12,CUST0084,Smart Watch,Electronics,2,5678.95,0.15,UPI,Nanded,Delivered,9654.22
+ORD01154,2025-12-31,CUST0193,Running Shoes,Fashion,3,2113.93,0,UPI,Mumbai,Delivered,6341.79
+ORD01155,2025-05-16,CUST0005,Storage Organizer,Home,2,882.29,0,UPI,Mumbai,Delivered,1764.58
+ORD01156,2025-10-19,CUST0157,Smart Watch,Electronics,3,5156.43,0,Cash on Delivery,Thane,Cancelled,15469.29
+ORD01157,2025-09-06,CUST0202,Table Lamp,Home,2,1264.05,0.2,UPI,Pune,Delivered,2022.48
+ORD01158,2025-07-16,CUST0075,Skincare Set,Beauty,3,1364.19,0,Cash on Delivery,Nagpur,Delivered,4092.57
+ORD01159,2025-10-31,CUST0161,Running Shoes,Fashion,1,2454,0.1,Cash on Delivery,Aurangabad,Returned,2208.6
+ORD01160,2025-12-06,CUST0175,Wireless Headphones,Electronics,1,2785.92,0.05,UPI,Nagpur,Delivered,2646.62
+ORD01161,2025-11-21,CUST0128,Table Lamp,Home,2,1225.63,0.1,Cash on Delivery,Thane,Delivered,2206.13
+ORD01162,2025-03-13,CUST0198,Wireless Headphones,Electronics,3,2531.76,0.1,Debit Card,Mumbai,Delivered,6835.75
+ORD01163,2025-09-08,CUST0211,Storage Organizer,Home,3,796.12,0.2,Cash on Delivery,Nashik,Returned,1910.69
+ORD01164,2025-07-10,CUST0088,Skincare Set,Beauty,1,1371.06,0.2,Cash on Delivery,Nanded,Delivered,1096.85
+ORD01165,2025-04-02,CUST0191,Wireless Headphones,Electronics,1,2562.9,0.15,Debit Card,Nashik,Delivered,2178.47
+ORD01166,2025-06-22,CUST0243,Table Lamp,Home,2,1298.72,0,Cash on Delivery,Mumbai,Delivered,2597.44
+ORD01167,2025-06-27,CUST0082,Storage Organizer,Home,1,990.9,0.1,Debit Card,Thane,Cancelled,891.81
+ORD01168,2025-04-03,CUST0094,Wireless Headphones,Electronics,1,2370.81,0.1,Cash on Delivery,Nanded,Returned,2133.73
+ORD01169,2025-10-08,CUST0040,Yoga Mat,Sports,2,1107.3,0.1,Debit Card,Thane,Cancelled,1993.14
+ORD01170,2025-09-14,CUST0039,Skincare Set,Beauty,2,1363.8,0.1,Credit Card,Nagpur,Returned,2454.84
+ORD01171,2025-03-18,CUST0080,Yoga Mat,Sports,1,885.55,0,UPI,Thane,Cancelled,885.55
+ORD01172,2025-07-27,CUST0144,Running Shoes,Fashion,1,1963.01,0.15,UPI,Nashik,Delivered,1668.56
+ORD01173,2025-01-14,CUST0152,Running Shoes,Fashion,3,2206.01,0.2,UPI,Mumbai,Cancelled,5294.42
+ORD01174,2025-02-22,CUST0047,Table Lamp,Home,2,1443.53,0,Cash on Delivery,Nanded,Delivered,2887.06
+ORD01175,2025-09-29,CUST0047,Skincare Set,Beauty,2,1285.56,0.05,Cash on Delivery,Mumbai,Delivered,2442.56
+ORD01176,2025-02-08,CUST0107,Casual T-Shirt,Fashion,2,632.28,0.15,Debit Card,Nashik,Delivered,1074.88
+ORD01177,2025-08-24,CUST0102,Storage Organizer,Home,1,1005.84,0.2,Cash on Delivery,Nagpur,Returned,804.67
+ORD01178,2025-10-08,CUST0189,Running Shoes,Fashion,3,2517.31,0.2,UPI,Mumbai,Delivered,6041.54
+ORD01179,2025-04-17,CUST0202,Table Lamp,Home,2,1117.81,0.2,Debit Card,Pune,Returned,1788.5
+ORD01180,2025-01-12,CUST0095,Running Shoes,Fashion,2,2361.8,0.05,Cash on Delivery,Nanded,Delivered,4487.42
+ORD01181,2025-08-16,CUST0015,Yoga Mat,Sports,1,937.69,0.15,Debit Card,Nashik,Delivered,797.04
+ORD01182,2025-10-03,CUST0169,Skincare Set,Beauty,2,1665.02,0,Credit Card,Thane,Delivered,3330.04
+ORD01183,2025-04-10,CUST0129,Table Lamp,Home,2,1430.03,0,Cash on Delivery,Pune,Delivered,2860.06
+ORD01184,2025-12-12,CUST0012,Table Lamp,Home,3,1431.71,0.15,Cash on Delivery,Aurangabad,Delivered,3650.86
+ORD01185,2025-10-09,CUST0195,Casual T-Shirt,Fashion,2,634.86,0.15,Cash on Delivery,Nagpur,Returned,1079.26
+ORD01186,2025-12-10,CUST0021,Yoga Mat,Sports,1,991.43,0,Debit Card,Pune,Delivered,991.43
+ORD01187,2025-10-13,CUST0168,Casual T-Shirt,Fashion,3,656.15,0.15,UPI,Pune,Delivered,1673.18
+ORD01188,2025-03-18,CUST0216,Smart Watch,Electronics,2,4451.22,0.15,Debit Card,Mumbai,Cancelled,7567.07
+ORD01189,2025-12-22,CUST0231,Storage Organizer,Home,3,1008.2,0,Debit Card,Mumbai,Delivered,3024.6
+ORD01190,2025-10-12,CUST0161,Skincare Set,Beauty,3,1320.75,0.05,Debit Card,Mumbai,Delivered,3764.14
+ORD01191,2025-09-30,CUST0060,Running Shoes,Fashion,2,2337.22,0.05,Debit Card,Pune,Returned,4440.72
+ORD01192,2025-11-21,CUST0217,Skincare Set,Beauty,1,1490.44,0.1,Debit Card,Thane,Delivered,1341.4
+ORD01193,2025-09-30,CUST0191,Wireless Headphones,Electronics,1,2660.04,0.2,Credit Card,Thane,Cancelled,2128.03
+ORD01194,2025-07-12,CUST0039,Wireless Headphones,Electronics,1,2365.31,0.2,Debit Card,Nagpur,Delivered,1892.25
+ORD01195,2025-03-31,CUST0221,Smart Watch,Electronics,3,5224.51,0.1,Credit Card,Nanded,Delivered,14106.18
+ORD01196,2025-08-23,CUST0190,Smart Watch,Electronics,2,5353.09,0.2,Credit Card,Aurangabad,Returned,8564.94
+ORD01197,2025-09-14,CUST0084,Skincare Set,Beauty,2,1280.44,0.2,Cash on Delivery,Pune,Delivered,2048.7
+ORD01198,2025-09-16,CUST0062,Skincare Set,Beauty,1,1452.74,0.05,UPI,Mumbai,Delivered,1380.1
+ORD01199,2025-09-22,CUST0116,Storage Organizer,Home,3,1031.4,0.1,Cash on Delivery,Nagpur,Delivered,2784.78
+ORD01200,2025-04-07,CUST0089,Casual T-Shirt,Fashion,2,786.37,0.2,Debit Card,Mumbai,Delivered,1258.19
